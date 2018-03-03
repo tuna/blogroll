@@ -1,12 +1,7 @@
 # blogroll
 
-收集TUNA周围的同学们的Blog
+世界一流兼容并包TUNA协会收集的周围的同学们的Blog
 
-
- - [ ] 提供OPML?
- - [ ] 提供类似Inoreader的远程OPML订阅?
- 
- 
 ## 添加方式
 
 在末尾添加
@@ -14,7 +9,6 @@
  - 发issues
  - 直接加
  - Pull Request
-
 
 ## Lists
 
@@ -125,3 +119,9 @@
 | xuanwo | https://xuanwo.org/index.xml  | https://xuanwo.org/ |
 
 
+
+## TODO
+
+ - [ ] 提供OPML?
+ - [ ] 提供类似Inoreader的远程OPML订阅?
+ 
