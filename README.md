@@ -97,7 +97,7 @@
 |太阳日志| http://www.sunjw.us/blog/feed/ | http://www.sunjw.us/blog |
 |小道消息| http://hutu.me/feed | http://hutu.me/ |
 |普渡大学中国本科学生会| http://www.puuca.org/feed/ | http://www.puuca.org/ |
-|有一说一 | 党凡| http://feed43.com/0408462837466482.xml | https://dangfan.me/zh-Hans/ |
+|有一说一(党凡)| http://feed43.com/0408462837466482.xml | https://dangfan.me/zh-Hans/ |
 |朝闻道| https://fbq.github.io/atom.xml | https://fbq.github.io/ |
 |李凡希的Blog| http://www.freemindworld.com/blog/feed | http://www.freemindworld.com/blog |
 |李轶博的个人博客| http://blog.liyibo.org/feed/ | http://blog.liyibo.org |
