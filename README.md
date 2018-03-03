@@ -8,6 +8,8 @@
  
  
 ## 添加方式
+
+在末尾添加
  
   - 发issues
   - 直接加
@@ -115,3 +117,8 @@
 |难得明白| http://gaocong.org/blog/feed/ | http://gaocong.org/blog |
 |飞| http://flylai.com/feed | http://flylai.com |
 |高見龍| http://feeds.feedburner.com/aquarianboy?format=xml | http://kaochenlong.com// |
+| 小小泥娃的部落格 | https://iecho.cc/feed | https://iecho.cc/ |
+| 犬走つばき dakkidaze | https://blog.ahokitsune.org/?feed=rss2 | https://blog.ahokitsune.org |
+
+
+
