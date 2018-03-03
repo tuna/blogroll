@@ -11,9 +11,9 @@
 
 在末尾添加
  
-  - 发issues
-  - 直接加
-  - Pull Request
+ - 发issues
+ - 直接加
+ - Pull Request
 
 
 ## Lists
