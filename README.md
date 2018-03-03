@@ -27,7 +27,7 @@
 |Blaok's Blog| https://blog.blaok.me/feed/ | https://blog.blaok.me/ |
 |Blink's Blog| https://blog.blink.moe/feed/ | https://blog.blink.moe/ |
 |~/blog| http://blog.tomtung.com/feed/atom.xml | http://blog.tomtung.com/ |
-|BLOG|LEXUGE| https://lexuge.github.io/feed.xml | https://lexuge.github.io/ |
+|BLOG-LEXUGE| https://lexuge.github.io/feed.xml | https://lexuge.github.io/ |
 |Capbone| http://feedpress.me/capbone | http://capbone.com/ |
 |CareF.Lm’s notebook| http://caref.xyz/feed.xml | http://www.caref.xyz/ |
 |Chon's Blog| https://ichon.me/feed/ | https://ichon.me |
@@ -40,7 +40,7 @@
 |Firefly 风物| http://bobylive.com/feed | http://bobylive.com/ |
 |Frantic log#1048| http://frantic1048.logdown.com/posts.atom | http://frantic1048.logdown.com |
 |From Zero To X| http://blog.ztrix.me/atom.xml | http://blog.ztrix.me/ |
-|ftofficer|张聪的blog| http://blog.ftofficer.com/feed/ | http://blog.ftofficer.com/ |
+|ftofficer - 张聪的blog| http://blog.ftofficer.com/feed/ | http://blog.ftofficer.com/ |
 |Galois, Inc.| https://galois.com/feed/ | https://galois.com |
 |Giuem| http://www.giuem.com/atom.xml | http://www.giuem.com |
 |Gu Lu's Blog| http://gulu-dev.com/feed | http://gulu-dev.com/ |
