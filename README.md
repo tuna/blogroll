@@ -122,5 +122,6 @@
 | Daisy's Podcast Review | http://daixy.me/feed.xml | http://daixy.me/ |
 | 单亚峰 | http://blog.kokonur.me/atom.xml | http://blog.kokonur.me/ |
 | xiaq | 没有 | https://elvish.io/blog/ |
+| xuanwo | https://xuanwo.org/index.xml  | https://xuanwo.org/ |
 
 
