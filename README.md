@@ -119,6 +119,8 @@
 |高見龍| http://feeds.feedburner.com/aquarianboy?format=xml | http://kaochenlong.com// |
 | 小小泥娃的部落格 | https://iecho.cc/feed | https://iecho.cc/ |
 | 犬走つばき dakkidaze | https://blog.ahokitsune.org/?feed=rss2 | https://blog.ahokitsune.org |
+| Daisy's Podcast Review | http://daixy.me/feed.xml | http://daixy.me/ |
+| 单亚峰 | http://blog.kokonur.me/atom.xml | http://blog.kokonur.me/ |
 
 
 
