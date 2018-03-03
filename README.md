@@ -68,7 +68,6 @@
 |oldj's blog| http://oldj.net/feed/ | http://oldj.net/ |
 |Otter Net| http://www.vuryleo.com/atom.xml | https://vuryleo.com/ |
 |Phoenix's island| https://blog.phoenixlzx.com/atom.xml | http://blog.phoenixlzx.com/ |
-|Pinboard (scateu)| https://feeds.pinboard.in/rss/u:scateu/ | https://pinboard.in/u:scateu/public/ |
 |polyhedron(古韻)的博客| http://blog.sina.com.cn/rss/1180557177.xml | http://blog.sina.com.cn/ychromosome |
 |Prof.Fan's Secret Garden| https://blog.amayume.net/rss/ | https://blog.amayume.net/ |
 |Puncsky CS Notebook| http://www.puncsky.com/atom.xml | http://www.puncsky.com/ |
@@ -77,7 +76,8 @@
 |Ryan's Zone| http://ryantang.me/atom.xml | http://ryantang.me/ |
 |Sammy Rock Symphony| http://feeds2.feedburner.com/sammyhk | http://sammy.hk/ |
 |Sam Stoelinga (Samos IT) - Blog| http://samos-it.com/feeds/sam-stoelinga.rss.xml | http://samos-it.com/ |
-|Scateu Blog - S.B.| http://scateu.me/feed.xml | http://scateu.github.io/ |
+|Scateu Blog | http://scateu.me/feed.xml | http://scateu.github.io/ |
+|Scateu Pinboard | https://feeds.pinboard.in/rss/u:scateu/ | https://pinboard.in/u:scateu/public/ |
 |Taresky| http://taresky.com/feed | http://taresky.com/ |
 |tifan.net| http://tifan.net/atom.xml | https://tifan.net/ |
 |Tyrant's Blog| http://blog.acgtyrant.com/atom.xml | http://blog.acgtyrant.com/ |
