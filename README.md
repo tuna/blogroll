@@ -12,7 +12,7 @@
 ## 添加方式
 
 在**最下面一行**添加 (相当于按时间顺序，为以后的增量提醒做准备)
- 
+
  - 发issues
  - 直接加
  - Pull Request
@@ -128,10 +128,11 @@
 | dotkrnl 刘家昌 | http://laukc.com/feed.xml | laukc.com , dotkrnl.com |
 |綺麗な賢狼ホロ - jsteward | https://blog.yoitsu.moe/feeds/all.atom.xml | https://blog.yoitsu.moe/ |
 | huiyiqun | https://blog.huiyiqun.me | https://blog.huiyiqun.me/feed.xml |
+| Kamikat's Blog | https://banana.moe/feed.xml | https://banana.moe/ |
 
 
 ## TODO
 
  - [ ] 提供OPML?
  - [ ] 提供类似Inoreader的远程OPML订阅?
- 
+
