@@ -117,7 +117,7 @@
 |阅微堂| http://zhiqiang.org/blog/feed | http://zhiqiang.org/blog |
 |难得明白| http://gaocong.org/blog/feed/ | http://gaocong.org/blog |
 |飞| http://flylai.com/feed | http://flylai.com |
-|高見龍| http://feeds.feedburner.com/aquarianboy?format=xml | http://kaochenlong.com// |
+|高見龍| http://feeds.feedburner.com/aquarianboy?format=xml | http://kaochenlong.com/ |
 | 小小泥娃的部落格 | https://iecho.cc/feed | https://iecho.cc/ |
 | 犬走つばき dakkidaze | https://blog.ahokitsune.org/?feed=rss2 | https://blog.ahokitsune.org |
 | Daisy's Podcast Review | http://daixy.me/feed.xml | http://daixy.me/ |
@@ -127,7 +127,8 @@
 |Jiajie Chen's blog| https://jiegec.github.io/feed.xml | https://jiegec.github.io/ |
 | dotkrnl 刘家昌 | http://laukc.com/feed.xml | laukc.com , dotkrnl.com |
 |綺麗な賢狼ホロ - jsteward | https://blog.yoitsu.moe/feeds/all.atom.xml | https://blog.yoitsu.moe/ |
-| huiyiqun | https://blog.huiyiqun.me | https://blog.huiyiqun.me/feed.xml |
+| huiyiqun | https://blog.huiyiqun.me/feed.xml | https://blog.huiyiqun.me/ |
+| N0vaD3v's Awesome Blog | https://nova.moe/atom.xml | https://nova.moe/ |
 
 
 ## TODO
