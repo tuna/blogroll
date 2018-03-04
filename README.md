@@ -11,7 +11,7 @@
 
 ## 添加方式
 
-在末尾添加
+在**最下面一行**添加 (相当于按时间顺序，为以后的增量提醒做准备)
  
  - 发issues
  - 直接加
@@ -56,7 +56,6 @@
 |IO-meter| http://io-meter.com/atom.xml | http://io-meter.com/ |
 |Jarett's Blog| http://www.nigesb.com/feed | http://www.nigesb.com/ |
 |JayXon| http://www.jayxon.com/feed/ | https://www.jayxon.com/ |
-|Jiajie Chen's blog| https://jiegec.github.io/feed.xml | https://jiegec.github.io/ |
 |kaori| http://aroma.ichon.me/feed | https://aroma.ichon.me |
 |K.I.S.S| http://bigeagle.me/feed/ | http://bigeagle.me/ |
 |Kxn's eXercise Notes| http://blog.kangkang.org/index.php/feed | http://blog.kangkang.org/ |
@@ -125,7 +124,7 @@
 | 单亚峰 | http://blog.kokonur.me/atom.xml | http://blog.kokonur.me/ |
 | xiaq | https://elvish.io/feed.atom | https://elvish.io/blog/ |
 | xuanwo | https://xuanwo.org/index.xml  | https://xuanwo.org/ |
-
+|Jiajie Chen's blog| https://jiegec.github.io/feed.xml | https://jiegec.github.io/ |
 
 
 ## TODO
