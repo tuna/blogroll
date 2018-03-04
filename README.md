@@ -127,6 +127,7 @@
 |Jiajie Chen's blog| https://jiegec.github.io/feed.xml | https://jiegec.github.io/ |
 | dotkrnl 刘家昌 | http://laukc.com/feed.xml | laukc.com , dotkrnl.com |
 |綺麗な賢狼ホロ - jsteward | https://blog.yoitsu.moe/feeds/all.atom.xml | https://blog.yoitsu.moe/ |
+| huiyiqun | https://blog.huiyiqun.me | https://blog.huiyiqun.me/feed.xml |
 
 
 ## TODO
