@@ -56,6 +56,7 @@
 |IO-meter| http://io-meter.com/atom.xml | http://io-meter.com/ |
 |Jarett's Blog| http://www.nigesb.com/feed | http://www.nigesb.com/ |
 |JayXon| http://www.jayxon.com/feed/ | https://www.jayxon.com/ |
+|Jiajie Chen's blog| https://jiegec.github.io/feed.xml | https://jiegec.github.io/ |
 |kaori| http://aroma.ichon.me/feed | https://aroma.ichon.me |
 |K.I.S.S| http://bigeagle.me/feed/ | http://bigeagle.me/ |
 |Kxn's eXercise Notes| http://blog.kangkang.org/index.php/feed | http://blog.kangkang.org/ |
