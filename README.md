@@ -125,6 +125,7 @@
 | xiaq | https://elvish.io/feed.atom | https://elvish.io/blog/ |
 | xuanwo | https://xuanwo.org/index.xml  | https://xuanwo.org/ |
 |Jiajie Chen's blog| https://jiegec.github.io/feed.xml | https://jiegec.github.io/ |
+| dotkrnl 刘家昌 | http://laukc.com/feed.xml | laukc.com , dotkrnl.com |
 
 
 ## TODO
