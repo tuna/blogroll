@@ -33,7 +33,6 @@
 |BLOG-LEXUGE| https://lexuge.github.io/feed.xml | https://lexuge.github.io/ |
 |Capbone| http://feedpress.me/capbone | http://capbone.com/ |
 |CareF.Lm’s notebook| http://caref.xyz/feed.xml | http://www.caref.xyz/ |
-|Chenyao's Blog| https://blog.lcybox.com/feed/ | https://blog.lcybox.com/ |
 |Chon's Blog| https://ichon.me/feed/ | https://ichon.me |
 |CodingLabs| http://blog.codinglabs.org/rss.xml | http://blog.codinglabs.org/ |
 |CS Slayer| https://www.csslayer.info/wordpress/feed/ | https://www.csslayer.info/wordpress |
@@ -134,6 +133,8 @@
 | gaocegege 的博客 | http://gaocegege.com/Blog/rss.xml | http://gaocegege.com/Blog/ | 
 | Ruotian's Blog | https://zrt.io/blog/atom.xml | https://zrt.io/blog/ |
 | 纸飞机 - jxj | http://sdr-x.github.io/feed.xml | http://sdr-x.github.io | 
+|Chenyao's Blog| https://blog.lcybox.com/feed/ | https://blog.lcybox.com/ |
+
 ## TODO
 
  - [ ] 提供OPML?
