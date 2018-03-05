@@ -33,6 +33,7 @@
 |BLOG-LEXUGE| https://lexuge.github.io/feed.xml | https://lexuge.github.io/ |
 |Capbone| http://feedpress.me/capbone | http://capbone.com/ |
 |CareF.Lm’s notebook| http://caref.xyz/feed.xml | http://www.caref.xyz/ |
+|Chenyao's Blog| https://blog.lcybox.com/feed/ | https://blog.lcybox.com/ |
 |Chon's Blog| https://ichon.me/feed/ | https://ichon.me |
 |CodingLabs| http://blog.codinglabs.org/rss.xml | http://blog.codinglabs.org/ |
 |CS Slayer| https://www.csslayer.info/wordpress/feed/ | https://www.csslayer.info/wordpress |
