@@ -130,6 +130,7 @@
 | huiyiqun | https://blog.huiyiqun.me/feed.xml | https://blog.huiyiqun.me/ |
 | N0vaD3v's Awesome Blog | https://nova.moe/atom.xml | https://nova.moe/ |
 | Kamikat's Blog | https://banana.moe/feed.xml | https://banana.moe/ |
+| Ruotian's Blog | https://zrt.io/blog/atom.xml | https://zrt.io/blog/ |
 
 
 ## TODO
