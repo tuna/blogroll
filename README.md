@@ -135,6 +135,8 @@
 | 纸飞机 - jxj | http://sdr-x.github.io/feed.xml | http://sdr-x.github.io | 
 |Chenyao's Blog| https://blog.lcybox.com/feed/ | https://blog.lcybox.com/ |
 | Palace | http://nameless.wang/atom.xml | http://nameless.wang/ |
+| Gee Law’s Blog | https://geelaw.blog/rss.xml | https://geelaw.blog/ |
+
 ## TODO
 
  - [ ] 提供OPML?
