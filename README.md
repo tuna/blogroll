@@ -132,7 +132,7 @@
 | Kamikat's Blog | https://banana.moe/feed.xml | https://banana.moe/ |
 | gaocegege 的博客 | http://gaocegege.com/Blog/rss.xml | http://gaocegege.com/Blog/ | 
 | Ruotian's Blog | https://zrt.io/blog/atom.xml | https://zrt.io/blog/ |
-
+| 纸飞机 - jxj | http://sdr-x.github.io/feed.xml | http://sdr-x.github.io | 
 ## TODO
 
  - [ ] 提供OPML?
