@@ -136,6 +136,8 @@
 |Chenyao's Blog| https://blog.lcybox.com/feed/ | https://blog.lcybox.com/ |
 | Palace | http://nameless.wang/atom.xml | http://nameless.wang/ |
 | Gee Law’s Blog | https://geelaw.blog/rss.xml | https://geelaw.blog/ |
+| Merrier说 | http://merrier.wang/feed/ | http://merrier.wang |
+
 
 ## TODO
 
