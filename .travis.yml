@@ -1,0 +1,14 @@
+language: generic
+
+branches:
+  only:
+    - master
+
+before_install:
+  - sudo apt-get install git
+
+script:
+  - .build/buildOpml.sh > opml.xml
+
+after_success:
+  - .build/push.sh
