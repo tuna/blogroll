@@ -138,6 +138,7 @@
 | Gee Law’s Blog | https://geelaw.blog/rss.xml | https://geelaw.blog/ |
 | Merrier说 | http://merrier.wang/feed/ | http://merrier.wang |
 | Nicholas Wang | https://nicho1as.wang/feed/ | https://nicho1as.wang |
+|Yubin's Blog| http://fastdrivers.org/feed.xml | http://fastdrivers.org |
 
 
 ## TODO
