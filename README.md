@@ -140,6 +140,7 @@
 | Nicholas Wang | https://nicho1as.wang/feed/ | https://nicho1as.wang |
 |Yubin's Blog| http://fastdrivers.org/feed.xml | http://fastdrivers.org |
 |True Me| https://zty.js.org/atom.xml | https://zty.js.org |
+|Intermediate Representation| http://ice1000.org/feed.xml | http://ice1000.org |
 
 ## TODO
 
