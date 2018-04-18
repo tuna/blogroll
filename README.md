@@ -143,6 +143,7 @@
 |Intermediate Representation| http://ice1000.org/feed.xml | http://ice1000.org |
 |Ping.X's Blog| https://pingxonline.com/feed/ | https://pingxonline.com/ |
 |NIR.moe | http://nir.moe/rss2.xml | http://nir.moe/ |
+|Konano's Blog| https://konano.github.io/atom.xml | https://konano.github.io/ |
 
 ## TODO
 
