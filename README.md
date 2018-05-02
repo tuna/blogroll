@@ -128,7 +128,7 @@
 | dotkrnl 刘家昌 | http://laukc.com/feed.xml | laukc.com , dotkrnl.com |
 |綺麗な賢狼ホロ - jsteward | https://blog.yoitsu.moe/feeds/all.atom.xml | https://blog.yoitsu.moe/ |
 | huiyiqun | https://blog.huiyiqun.me/feed.xml | https://blog.huiyiqun.me/ |
-| N0vaD3v's Awesome Blog | https://nova.moe/atom.xml | https://nova.moe/ |
+| Nova Kwok's Awesome Blog | https://nova.moe/atom.xml | https://nova.moe/ |
 | Kamikat's Blog | https://banana.moe/feed.xml | https://banana.moe/ |
 
 
