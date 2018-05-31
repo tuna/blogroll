@@ -144,6 +144,7 @@
 |Ping.X's Blog| https://pingxonline.com/feed/ | https://pingxonline.com/ |
 |NIR.moe | http://nir.moe/rss2.xml | http://nir.moe/ |
 |Konano's Blog| https://konanoo.com/atom.xml | https://konanoo.com/ |
+|浮梦记| https://www.fumengji.com/atom.xml | https://www.fumengji.com/ |
 
 ## TODO
 
