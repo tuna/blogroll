@@ -152,8 +152,12 @@
 
 <https://tuna.github.io/blogroll/opml.xml>
 
+(感谢 @CircuitCoder 提供Travis脚本)
+
+在Inoreader里可以持续订阅;在Feedly里可以下载之后导入.
+
 ## TODO
 
  - [X] 提供OPML?
- - [ ] 提供类似Inoreader的远程OPML订阅?
+ - [X] 提供类似Inoreader的远程OPML订阅?
 
