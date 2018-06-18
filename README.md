@@ -154,6 +154,6 @@
 
 ## TODO
 
- - [ ] 提供OPML?
+ - [X] 提供OPML?
  - [ ] 提供类似Inoreader的远程OPML订阅?
 
