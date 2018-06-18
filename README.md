@@ -148,6 +148,10 @@
 |浮梦记| https://www.fumengji.com/atom.xml | https://www.fumengji.com/ |
 |Dimpurr Cheny: 钉子の次元| http://blog.dimpurr.com/feed | http://dimpurr.com/ |
 
+## OPML
+
+<https://tuna.github.io/blogroll/opml.xml>
+
 ## TODO
 
  - [ ] 提供OPML?
