@@ -143,8 +143,10 @@
 |Intermediate Representation| http://ice1000.org/feed.xml | http://ice1000.org |
 |Ping.X's Blog| https://pingxonline.com/feed/ | https://pingxonline.com/ |
 |NIR.moe | http://nir.moe/rss2.xml | http://nir.moe/ |
+|stardiviner's Blog | https://stardiviner.github.io/Blog/index.xml | https://stardiviner.github.io/ |
 |Konano's Blog| https://konanoo.com/atom.xml | https://konanoo.com/ |
 |浮梦记| https://www.fumengji.com/atom.xml | https://www.fumengji.com/ |
+|Dimpurr Cheny: 钉子の次元| http://blog.dimpurr.com/feed | http://dimpurr.com/ |
 
 ## TODO
 
