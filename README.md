@@ -145,6 +145,7 @@
 |NIR.moe | http://nir.moe/rss2.xml | http://nir.moe/ |
 |stardiviner's Blog | https://stardiviner.github.io/Blog/index.xml | https://stardiviner.github.io/ |
 |Konano's Blog| https://konanoo.com/atom.xml | https://konanoo.com/ |
+|浮梦记| https://www.fumengji.com/atom.xml | https://www.fumengji.com/ |
 |Dimpurr Cheny: 钉子の次元| http://blog.dimpurr.com/feed | http://dimpurr.com/ |
 
 ## TODO
