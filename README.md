@@ -128,7 +128,7 @@
 | dotkrnl 刘家昌 | http://laukc.com/feed.xml | laukc.com , dotkrnl.com |
 |綺麗な賢狼ホロ - jsteward | https://blog.yoitsu.moe/feeds/all.atom.xml | https://blog.yoitsu.moe/ |
 | huiyiqun | https://blog.huiyiqun.me/feed.xml | https://blog.huiyiqun.me/ |
-| N0vaD3v's Awesome Blog | https://nova.moe/atom.xml | https://nova.moe/ |
+| Nova Kwok's Awesome Blog | https://nova.moe/atom.xml | https://nova.moe/ |
 | Kamikat's Blog | https://banana.moe/feed.xml | https://banana.moe/ |
 | gaocegege 的博客 | http://gaocegege.com/Blog/rss.xml | http://gaocegege.com/Blog/ | 
 | Ruotian's Blog | https://zrt.io/blog/atom.xml | https://zrt.io/blog/ |
@@ -143,8 +143,9 @@
 |Intermediate Representation| http://ice1000.org/feed.xml | http://ice1000.org |
 |Ping.X's Blog| https://pingxonline.com/feed/ | https://pingxonline.com/ |
 |NIR.moe | http://nir.moe/rss2.xml | http://nir.moe/ |
-|Konano's Blog| https://konano.github.io/atom.xml | https://konano.github.io/ |
-| stardiviner's Blog | https://stardiviner.github.io/Blog/index.xml | https://stardiviner.github.io/ |
+|stardiviner's Blog | https://stardiviner.github.io/Blog/index.xml | https://stardiviner.github.io/ |
+|Konano's Blog| https://konanoo.com/atom.xml | https://konanoo.com/ |
+|Dimpurr Cheny: 钉子の次元| http://blog.dimpurr.com/feed | http://dimpurr.com/ |
 
 ## TODO
 
