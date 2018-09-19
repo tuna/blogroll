@@ -147,6 +147,7 @@
 |Konano's Blog| https://konanoo.com/atom.xml | https://konanoo.com/ |
 |浮梦记| https://www.fumengji.com/atom.xml | https://www.fumengji.com/ |
 |Dimpurr Cheny: 钉子の次元| http://blog.dimpurr.com/feed | http://dimpurr.com/ |
+|Dex Hunter's Blog| https://dexhunter.github.io/feed.xml | https://dexhunter.github.io/ |
 
 ## OPML
 
