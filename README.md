@@ -149,6 +149,7 @@
 |Dimpurr Cheny: 钉子の次元| http://blog.dimpurr.com/feed | http://dimpurr.com/ |
 |Dex Hunter's Blog| https://dexhunter.github.io/feed.xml | https://dexhunter.github.io/ |
 |Brian's Blog| http://brianleelxt.top/atom.xml| http://brianleelxt.top/|
+|PRIEWIENV's Blog| https://blog.priewienv.me/atom.xml | https://blog.priewienv.me/ |
 
 ## OPML
 
