@@ -85,7 +85,7 @@
 |/usr/sbin/blog| http://www.usrsb.in/rss.xml | http://usrsb.in |
 |VeryUE| http://blog.veryue.com/feed | http://blog.veryue.com/ |
 |Why's Blog| http://blog.callmewhy.com/atom.xml | http://blog.callmewhy.com/ |
-|Xiaoji Chen's Design Weblog| http://xiaoji-chen.com/blog/feed/ | http://xiaoji-chen.com/blog |
+|Xiaoji Chen's Design Weblog| http://www.xiaoji-chen.com/feed.xml | http://www.xiaoji-chen.com/blog |
 |xudshen's blog| http://xudshen.info/atom.xml | http://xudshen.info/ |
 |Yang Boogle - Y.B.| https://leoyaboo.github.io/feed.xml | http://leoyaboo.github.io/ |
 |Yi's Words| http://yige.ch/rss/ | http://yige.ch/ |
@@ -103,7 +103,7 @@
 |有一说一(党凡)| http://feed43.com/0408462837466482.xml | https://dangfan.me/zh-Hans/ |
 |朝闻道| https://fbq.github.io/atom.xml | https://fbq.github.io/ |
 |李凡希的Blog| http://www.freemindworld.com/blog/feed | http://www.freemindworld.com/blog |
-|李轶博的个人博客| http://blog.liyibo.org/feed/ | http://blog.liyibo.org |
+|李轶博的个人博客| https://blog.liyibo.org/feed.xml | https://blog.liyibo.org/ |
 |比尔盖子 博客| http://biergaizi.info/?feed=rss | https://biergaizi.info/ |
 |毕扬博客| http://laob.me/feed/ | http://laob.me/ |
 |水渍| http://multisim.me/atom.xml | http://multisim.me/ |
@@ -113,12 +113,12 @@
 |语焉不详| http://www.scoopguo.com/index.php/feed/ | http://www.scoopguo.com/ |
 |贺叶霜的树：III| https://heyeshuang.github.io/blog/feed.xml | https://heyeshuang.github.io/blog/ |
 |赵达的个人网站 - Zhao Da's Personal Website| http://zhaoda.net/feed.xml | http://zhaoda.net/ |
-|铜芯科技技术博客| http://blog.eqoe.cn/feed.xml | http://blog.eqoe.cn/ |
+|铜芯科技技术博客| https://typcn.com/legacy/blog/feed.xml | https://typcn.com/legacy/blog/ |
 |阅微堂| http://zhiqiang.org/blog/feed | http://zhiqiang.org/blog |
 |难得明白| http://gaocong.org/blog/feed/ | http://gaocong.org/blog |
 |飞| http://flylai.com/feed | http://flylai.com |
 |高見龍| http://feeds.feedburner.com/aquarianboy?format=xml | http://kaochenlong.com/ |
-| 小小泥娃的部落格 | https://iecho.cc/feed | https://iecho.cc/ |
+| 小小泥娃的部落格 | https://iecho.cc/feed/ | https://iecho.cc/ |
 | 犬走つばき dakkidaze | https://rbq.ac.cn/?feed=rss2 | https://rbq.ac.cn/ |
 | Daisy's Podcast Review | http://daixy.me/feed.xml | http://daixy.me/ |
 | 单亚峰 | http://blog.kokonur.me/atom.xml | http://blog.kokonur.me/ |
@@ -133,11 +133,11 @@
 | gaocegege 的博客 | http://gaocegege.com/Blog/rss.xml | http://gaocegege.com/Blog/ | 
 | Ruotian's Blog | https://zrt.io/blog/atom.xml | https://zrt.io/blog/ |
 | 纸飞机 - jxj | http://sdr-x.github.io/feed.xml | http://sdr-x.github.io | 
-|Chenyao's Blog| https://blog.lcybox.com/feed/ | https://blog.lcybox.com/ |
+|Chenyao's Blog| https://blog.lcy.im/atom.xml | https://blog.lcy.im/ |
 | Palace | http://nameless.wang/atom.xml | http://nameless.wang/ |
 | Gee Law’s Blog | https://geelaw.blog/rss.xml | https://geelaw.blog/ |
 | Merrier说 | http://merrier.wang/feed/ | http://merrier.wang |
-| Nicholas Wang | https://nicho1as.wang/feed/ | https://nicho1as.wang |
+| Nicholas Wang | https://www.nicho1as.wang/feed/ | https://www.nicho1as.wang/ |
 |Yubin's Blog| http://fastdrivers.org/feed.xml | http://fastdrivers.org |
 |True Me| https://zty.js.org/atom.xml | https://zty.js.org |
 |Intermediate Representation| http://ice1000.org/feed.xml | http://ice1000.org |
