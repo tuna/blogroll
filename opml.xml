@@ -69,7 +69,7 @@
 <outline title="/usr/sbin/blog" xmlUrl="http://www.usrsb.in/rss.xml" htmlUrl="http://usrsb.in"/>
 <outline title="VeryUE" xmlUrl="http://blog.veryue.com/feed" htmlUrl="http://blog.veryue.com/"/>
 <outline title="Why's Blog" xmlUrl="http://blog.callmewhy.com/atom.xml" htmlUrl="http://blog.callmewhy.com/"/>
-<outline title="Xiaoji Chen's Design Weblog" xmlUrl="http://xiaoji-chen.com/blog/feed/" htmlUrl="http://xiaoji-chen.com/blog"/>
+<outline title="Xiaoji Chen's Design Weblog" xmlUrl="http://www.xiaoji-chen.com/feed.xml" htmlUrl="http://www.xiaoji-chen.com/blog"/>
 <outline title="xudshen's blog" xmlUrl="http://xudshen.info/atom.xml" htmlUrl="http://xudshen.info/"/>
 <outline title="Yang Boogle - Y.B." xmlUrl="https://leoyaboo.github.io/feed.xml" htmlUrl="http://leoyaboo.github.io/"/>
 <outline title="Yi's Words" xmlUrl="http://yige.ch/rss/" htmlUrl="http://yige.ch/"/>
@@ -87,7 +87,7 @@
 <outline title="有一说一(党凡)" xmlUrl="http://feed43.com/0408462837466482.xml" htmlUrl="https://dangfan.me/zh-Hans/"/>
 <outline title="朝闻道" xmlUrl="https://fbq.github.io/atom.xml" htmlUrl="https://fbq.github.io/"/>
 <outline title="李凡希的Blog" xmlUrl="http://www.freemindworld.com/blog/feed" htmlUrl="http://www.freemindworld.com/blog"/>
-<outline title="李轶博的个人博客" xmlUrl="http://blog.liyibo.org/feed/" htmlUrl="http://blog.liyibo.org"/>
+<outline title="李轶博的个人博客" xmlUrl="https://blog.liyibo.org/feed.xml" htmlUrl="https://blog.liyibo.org/"/>
 <outline title="比尔盖子 博客" xmlUrl="http://biergaizi.info/?feed=rss" htmlUrl="https://biergaizi.info/"/>
 <outline title="毕扬博客" xmlUrl="http://laob.me/feed/" htmlUrl="http://laob.me/"/>
 <outline title="水渍" xmlUrl="http://multisim.me/atom.xml" htmlUrl="http://multisim.me/"/>
@@ -97,12 +97,12 @@
 <outline title="语焉不详" xmlUrl="http://www.scoopguo.com/index.php/feed/" htmlUrl="http://www.scoopguo.com/"/>
 <outline title="贺叶霜的树：III" xmlUrl="https://heyeshuang.github.io/blog/feed.xml" htmlUrl="https://heyeshuang.github.io/blog/"/>
 <outline title="赵达的个人网站 - Zhao Da's Personal Website" xmlUrl="http://zhaoda.net/feed.xml" htmlUrl="http://zhaoda.net/"/>
-<outline title="铜芯科技技术博客" xmlUrl="http://blog.eqoe.cn/feed.xml" htmlUrl="http://blog.eqoe.cn/"/>
+<outline title="铜芯科技技术博客" xmlUrl="https://typcn.com/legacy/blog/feed.xml" htmlUrl="https://typcn.com/legacy/blog/"/>
 <outline title="阅微堂" xmlUrl="http://zhiqiang.org/blog/feed" htmlUrl="http://zhiqiang.org/blog"/>
 <outline title="难得明白" xmlUrl="http://gaocong.org/blog/feed/" htmlUrl="http://gaocong.org/blog"/>
 <outline title="飞" xmlUrl="http://flylai.com/feed" htmlUrl="http://flylai.com"/>
 <outline title="高見龍" xmlUrl="http://feeds.feedburner.com/aquarianboy?format=xml" htmlUrl="http://kaochenlong.com/"/>
-<outline title="小小泥娃的部落格" xmlUrl="https://iecho.cc/feed" htmlUrl="https://iecho.cc/"/>
+<outline title="小小泥娃的部落格" xmlUrl="https://iecho.cc/feed/" htmlUrl="https://iecho.cc/"/>
 <outline title="犬走つばき dakkidaze" xmlUrl="https://rbq.ac.cn/?feed=rss2" htmlUrl="https://rbq.ac.cn/"/>
 <outline title="Daisy's Podcast Review" xmlUrl="http://daixy.me/feed.xml" htmlUrl="http://daixy.me/"/>
 <outline title="单亚峰" xmlUrl="http://blog.kokonur.me/atom.xml" htmlUrl="http://blog.kokonur.me/"/>
@@ -117,11 +117,11 @@
 <outline title="gaocegege 的博客" xmlUrl="http://gaocegege.com/Blog/rss.xml" htmlUrl="http://gaocegege.com/Blog/"/>
 <outline title="Ruotian's Blog" xmlUrl="https://zrt.io/blog/atom.xml" htmlUrl="https://zrt.io/blog/"/>
 <outline title="纸飞机 - jxj" xmlUrl="http://sdr-x.github.io/feed.xml" htmlUrl="http://sdr-x.github.io"/>
-<outline title="Chenyao's Blog" xmlUrl="https://blog.lcybox.com/feed/" htmlUrl="https://blog.lcybox.com/"/>
+<outline title="Chenyao's Blog" xmlUrl="https://blog.lcy.im/atom.xml" htmlUrl="https://blog.lcy.im/"/>
 <outline title="Palace" xmlUrl="http://nameless.wang/atom.xml" htmlUrl="http://nameless.wang/"/>
 <outline title="Gee Law’s Blog" xmlUrl="https://geelaw.blog/rss.xml" htmlUrl="https://geelaw.blog/"/>
 <outline title="Merrier说" xmlUrl="http://merrier.wang/feed/" htmlUrl="http://merrier.wang"/>
-<outline title="Nicholas Wang" xmlUrl="https://nicho1as.wang/feed/" htmlUrl="https://nicho1as.wang"/>
+<outline title="Nicholas Wang" xmlUrl="https://www.nicho1as.wang/feed/" htmlUrl="https://www.nicho1as.wang/"/>
 <outline title="Yubin's Blog" xmlUrl="http://fastdrivers.org/feed.xml" htmlUrl="http://fastdrivers.org"/>
 <outline title="True Me" xmlUrl="https://zty.js.org/atom.xml" htmlUrl="https://zty.js.org"/>
 <outline title="Intermediate Representation" xmlUrl="http://ice1000.org/feed.xml" htmlUrl="http://ice1000.org"/>
