@@ -152,6 +152,7 @@
 |PRIEWIENV's Blog| https://blog.priewienv.me/atom.xml | https://blog.priewienv.me/ |
 |兔子鲜笙的博客| https://blog.tuzi.moe/rss/ | https://blog.tuzi.moe/ |
 | Yiran 的博客 | https://yiran.moe/atom.xml | https://yiran.moe |
+| Hello From Junde Yhi | https://lmy441900.github.io/feed.xml | https://lmy441900.github.io |
 
 ## OPML
 
@@ -165,4 +166,3 @@
 
  - [X] 提供OPML?
  - [X] 提供类似Inoreader的远程OPML订阅?
-
