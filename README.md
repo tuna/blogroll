@@ -152,6 +152,7 @@
 |PRIEWIENV's Blog| https://blog.priewienv.me/atom.xml | https://blog.priewienv.me/ |
 |兔子鲜笙的博客| https://blog.tuzi.moe/rss/ | https://blog.tuzi.moe/ |
 | Yiran 的博客 | https://yiran.moe/atom.xml | https://yiran.moe |
+| Lee's Blog | https://lee981265.github.io/atom.xml   |https://lee981265.github.io      |
 
 ## OPML
 
