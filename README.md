@@ -119,7 +119,7 @@
 |飞| http://flylai.com/feed | http://flylai.com |
 |高見龍| http://feeds.feedburner.com/aquarianboy?format=xml | http://kaochenlong.com/ |
 | 小小泥娃的部落格 | https://iecho.cc/feed/ | https://iecho.cc/ |
-| 犬走つばき dakkidaze | https://rbq.ac.cn/?feed=rss2 | https://rbq.ac.cn/ |
+| 禦狐神瀧夜 | https://rbq.ac.cn/feed | https://rbq.ac.cn/ |
 | Daisy's Podcast Review | http://daixy.me/feed.xml | http://daixy.me/ |
 | 单亚峰 | http://blog.kokonur.me/atom.xml | http://blog.kokonur.me/ |
 | xiaq | https://elvish.io/feed.atom | https://elvish.io/blog/ |
