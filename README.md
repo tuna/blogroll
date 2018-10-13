@@ -44,6 +44,7 @@
 |Frantic log#1048| http://frantic1048.logdown.com/posts.atom | http://frantic1048.logdown.com |
 |From Zero To X| http://blog.ztrix.me/atom.xml | http://blog.ztrix.me/ |
 |ftofficer - 张聪的blog| http://blog.ftofficer.com/feed/ | http://blog.ftofficer.com/ |
+|Fugoes's Blog| https://blog.fugoes.xyz/feed.xml | https://blog.fugoes.xyz |
 |Galois, Inc.| https://galois.com/feed/ | https://galois.com |
 |Giuem| http://www.giuem.com/atom.xml | http://www.giuem.com |
 |Gu Lu's Blog| http://gulu-dev.com/feed | http://gulu-dev.com/ |
@@ -126,7 +127,8 @@
 | xuanwo | https://xuanwo.org/index.xml  | https://xuanwo.org/ |
 |Jiajie Chen's blog| https://jiegec.github.io/feed.xml | https://jiegec.github.io/ |
 | dotkrnl 刘家昌 | http://laukc.com/feed.xml | laukc.com , dotkrnl.com |
-|綺麗な賢狼ホロ - jsteward | https://blog.yoitsu.moe/feeds/all.atom.xml | https://blog.yoitsu.moe/ |
+| ヨイツの賢狼ホロ | https://blog.yoitsu.moe/feeds/all.atom.xml | https://blog.yoitsu.moe/ |
+| 綺麗な賢狼ホロ - jsteward | https://github.com/KireinaHoro/jsteward.moe | https://jsteward.moe/ |
 | huiyiqun | https://blog.huiyiqun.me/feed.xml | https://blog.huiyiqun.me/ |
 | Nova Kwok's Awesome Blog | https://nova.moe/atom.xml | https://nova.moe/ |
 | Kamikat's Blog | https://banana.moe/feed.xml | https://banana.moe/ |
