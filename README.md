@@ -154,6 +154,7 @@
 | Yiran 的博客 | https://yiran.moe/atom.xml | https://yiran.moe |
 | Hello From Junde Yhi | https://lmy441900.github.io/feed.xml | https://lmy441900.github.io |
 | Lee's Blog | https://lee981265.github.io/atom.xml   |https://lee981265.github.io      |
+| (Power up) | https://kevinjiang.info/atom.xml | https://kevinjiang.info |
 
 ## OPML
 
