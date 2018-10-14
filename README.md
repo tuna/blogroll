@@ -151,7 +151,7 @@
 |Dimpurr Cheny: 钉子の次元| http://blog.dimpurr.com/feed | http://dimpurr.com/ |
 |Dex Hunter's Blog| https://dexhunter.github.io/feed.xml | https://dexhunter.github.io/ |
 |Brian's Blog| http://brianleelxt.top/atom.xml| http://brianleelxt.top/|
-|PRIEWIENV's Blog| https://blog.priewienv.me/atom.xml | https://blog.priewienv.me/ |
+|PRIEWIENV's Blog| https://blog.priewienv.me/index.xml | https://blog.priewienv.me/ |
 |兔子鲜笙的博客| https://blog.tuzi.moe/rss/ | https://blog.tuzi.moe/ |
 | Yiran 的博客 | https://yiran.moe/atom.xml | https://yiran.moe |
 | Hello From Junde Yhi | https://lmy441900.github.io/feed.xml | https://lmy441900.github.io |
