@@ -158,6 +158,7 @@
 | Lee's Blog | https://lee981265.github.io/atom.xml   |https://lee981265.github.io      |
 | (Power up) | https://kevinjiang.info/atom.xml | https://kevinjiang.info |
 | heroxbd    | https://heroxbd.github.io/feed.xml | https://heroxbd.github.io/ |
+| 王若溪 ReeseWang | https://ruoxi.wang/feed/ | https://ruoxi.wang/ |
 
 ## OPML
 
