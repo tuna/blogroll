@@ -124,7 +124,7 @@
 | Daisy's Podcast Review | http://daixy.me/feed.xml | http://daixy.me/ |
 | 单亚峰 | http://blog.kokonur.me/atom.xml | http://blog.kokonur.me/ |
 | xiaq | https://elvish.io/feed.atom | https://elvish.io/blog/ |
-| xuanwo | https://xuanwo.org/index.xml  | https://xuanwo.org/ |
+| xuanwo | https://xuanwo.io/index.xml  | https://xuanwo.io/ |
 |Jiajie Chen's blog| https://jiegec.github.io/feed.xml | https://jiegec.github.io/ |
 | dotkrnl 刘家昌 | http://laukc.com/feed.xml | laukc.com , dotkrnl.com |
 | ヨイツの賢狼ホロ | https://blog.yoitsu.moe/feeds/all.atom.xml | https://blog.yoitsu.moe/ |
