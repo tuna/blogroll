@@ -108,7 +108,7 @@
 <outline title="Daisy's Podcast Review" xmlUrl="http://daixy.me/feed.xml" htmlUrl="http://daixy.me/"/>
 <outline title="单亚峰" xmlUrl="http://blog.kokonur.me/atom.xml" htmlUrl="http://blog.kokonur.me/"/>
 <outline title="xiaq" xmlUrl="https://elvish.io/feed.atom" htmlUrl="https://elvish.io/blog/"/>
-<outline title="xuanwo" xmlUrl="https://xuanwo.org/index.xml" htmlUrl="https://xuanwo.org/"/>
+<outline title="xuanwo" xmlUrl="https://xuanwo.io/index.xml" htmlUrl="https://xuanwo.io/"/>
 <outline title="Jiajie Chen's blog" xmlUrl="https://jiegec.github.io/feed.xml" htmlUrl="https://jiegec.github.io/"/>
 <outline title="dotkrnl 刘家昌" xmlUrl="http://laukc.com/feed.xml" htmlUrl="laukc.com , dotkrnl.com"/>
 <outline title="ヨイツの賢狼ホロ" xmlUrl="https://blog.yoitsu.moe/feeds/all.atom.xml" htmlUrl="https://blog.yoitsu.moe/"/>
@@ -143,6 +143,7 @@
 <outline title="(Power up)" xmlUrl="https://kevinjiang.info/atom.xml" htmlUrl="https://kevinjiang.info"/>
 <outline title="heroxbd" xmlUrl="https://heroxbd.github.io/feed.xml" htmlUrl="https://heroxbd.github.io/"/>
 <outline title="王若溪 ReeseWang" xmlUrl="https://ruoxi.wang/feed/" htmlUrl="https://ruoxi.wang/"/>
+<outline title="chen's 垃圾桶" xmlUrl="https://chenassert.xyz/feed/" htmlUrl="https://chenassert.xyz/"/>
 
   </body>
 </opml>
