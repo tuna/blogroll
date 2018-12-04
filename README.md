@@ -159,6 +159,7 @@
 | (Power up) | https://kevinjiang.info/atom.xml | https://kevinjiang.info |
 | heroxbd    | https://heroxbd.github.io/feed.xml | https://heroxbd.github.io/ |
 | 王若溪 ReeseWang | https://ruoxi.wang/feed/ | https://ruoxi.wang/ |
+| Yay Ka-Boom-Boom | https://blog.nyan.im/feed/ | https://blog.nyan.im/ |
 
 ## OPML
 
