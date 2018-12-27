@@ -161,6 +161,7 @@
 | 王若溪 ReeseWang | https://ruoxi.wang/feed/ | https://ruoxi.wang/ |
 | Yay Ka-Boom-Boom | https://blog.nyan.im/feed/ | https://blog.nyan.im/ |
 | 郭泽宇 (ZE3kr) | https://guozeyu.com/feed/ | https://guozeyu.com |
+| SkylineBin's Blog | https://skylinebin.com/feed.xml | https://skylinebin.com |
 | chen's 垃圾桶 | https://chenassert.xyz/feed/ | https://chenassert.xyz/ |
 
 ## OPML
