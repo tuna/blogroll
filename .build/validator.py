@@ -55,7 +55,7 @@ with open(sys.argv[1], 'r') as opmlFile:
 
         events = None
         try:
-            events = feedvalidator.validateURL(feed, firstOccurrenceOnly=0)['loggedEvents']
+            events = feedvalidator.validateURL(feed, firstOccurrenceOnly=1)['loggedEvents']
         except feedvalidator.logging.ValidationFailure as vf:
             events = [vf.event]
         except Exception as e:
