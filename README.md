@@ -163,6 +163,8 @@
 | 郭泽宇 (ZE3kr) | https://guozeyu.com/feed/ | https://guozeyu.com |
 | SkylineBin's Blog | https://skylinebin.com/feed.xml | https://skylinebin.com |
 | chen's 垃圾桶 | https://chenassert.xyz/feed/ | https://chenassert.xyz/ |
+| 始终 | https://liam.page/atom.xml | https://liam.page/ |
+| Begin-End | https://liam.page/en/atom.xml | https://liam.page/en/ |
 
 ## OPML
 
