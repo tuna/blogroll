@@ -1,5 +1,10 @@
 #!/bin/bash
 
+if [[ $TRAVIS_BRANCH != "master" ]] || [[ $TRAVIS_REPO_SLUG != "tuna/blogroll" ]]; then
+  echo "Skip deployment"
+  exit 0
+fi
+
 # Reference: https://gist.github.com/willprice/e07efd73fb7f13f917ea
 
 scriptpath=$(readlink "$0")
