@@ -29,14 +29,14 @@
 |BlahGeek's Blog| https://blog.blahgeek.com/feeds/all.rss.xml | http://blog.blahgeek.com/ |
 |Blaok's Blog| https://blog.blaok.me/feed/ | https://blog.blaok.me/ |
 |Blink's Blog| https://blog.blink.moe/feed/ | https://blog.blink.moe/ |
-|~/blog| http://blog.tomtung.com/feed/atom.xml | http://blog.tomtung.com/ |
+|blog.tomtun.com| http://blog.tomtung.com/feed/atom.xml | http://blog.tomtung.com/ |
 |BLOG-LEXUGE| https://lexuge.github.io/feed.xml | https://lexuge.github.io/ |
 |Capbone| http://feedpress.me/capbone | http://capbone.com/ |
 |CareF.Lm’s notebook| http://caref.xyz/feed.xml | http://www.caref.xyz/ |
 |Chon's Blog| https://ichon.me/feed/ | https://ichon.me |
 |CodingLabs| http://blog.codinglabs.org/rss.xml | http://blog.codinglabs.org/ |
 |CS Slayer| https://www.csslayer.info/wordpress/feed/ | https://www.csslayer.info/wordpress |
-|cuihao-&gt;blog| http://cuihao.is-programmer.com/feed | http://cuihao.is-programmer.com/ |
+|cuihao;blog| http://cuihao.is-programmer.com/feed | http://cuihao.is-programmer.com/ |
 |DOVEcho Blog - D.B.| http://dovecho.github.io/feed.xml | http://dovecho.github.io/ |
 |Farseerfc的小窩| http://farseerfc.me/feeds/atom.xml | http://farseerfc.me/ |
 |Felix's Blog| http://feeds.feedburner.com/felixcat?format=xml | http://blog.felixc.at/ |
@@ -51,7 +51,7 @@
 |Hacklook's Product View| http://hacklook.com/rss | http://hacklook.com/ |
 |hawkyo's blog| http://hawkyo.net/feed/ | http://hawkyo.net/ |
 |Henry's Blog| http://blog.henryhu.net/?feed=rss2 | http://blog.henryhu.net/ |
-|/home/hexchain| https://blog.hexchain.org/feeds/all.atom.xml | https://blog.hexchain.org/ |
+|hexchain| https://blog.hexchain.org/feeds/all.atom.xml | https://blog.hexchain.org/ |
 |icebox| https://quininer.github.io/rss.xml | https://quininer.github.io/ |
 |Igotit的空间| http://by-igotit.com/feed | http://by-igotit.com/ |
 |IO-meter| http://io-meter.com/atom.xml | http://io-meter.com/ |
@@ -83,7 +83,7 @@
 |Taresky| http://taresky.com/feed | http://taresky.com/ |
 |tifan.net| http://tifan.net/atom.xml | https://tifan.net/ |
 |Tyrant's Blog| http://blog.acgtyrant.com/atom.xml | http://blog.acgtyrant.com/ |
-|/usr/sbin/blog| http://www.usrsb.in/rss.xml | http://usrsb.in |
+|usr-sbin-blog| http://www.usrsb.in/rss.xml | http://usrsb.in |
 |VeryUE| http://blog.veryue.com/feed | http://blog.veryue.com/ |
 |Why's Blog| http://blog.callmewhy.com/atom.xml | http://blog.callmewhy.com/ |
 |Xiaoji Chen's Design Weblog| http://www.xiaoji-chen.com/feed.xml | http://www.xiaoji-chen.com/blog |
