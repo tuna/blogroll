@@ -13,14 +13,14 @@
 <outline title="BlahGeek's Blog" xmlUrl="https://blog.blahgeek.com/feeds/all.rss.xml" htmlUrl="http://blog.blahgeek.com/"/>
 <outline title="Blaok's Blog" xmlUrl="https://blog.blaok.me/feed/" htmlUrl="https://blog.blaok.me/"/>
 <outline title="Blink's Blog" xmlUrl="https://blog.blink.moe/feed/" htmlUrl="https://blog.blink.moe/"/>
-<outline title="~/blog" xmlUrl="http://blog.tomtung.com/feed/atom.xml" htmlUrl="http://blog.tomtung.com/"/>
+<outline title="blog.tomtun.com" xmlUrl="http://blog.tomtung.com/feed/atom.xml" htmlUrl="http://blog.tomtung.com/"/>
 <outline title="BLOG-LEXUGE" xmlUrl="https://lexuge.github.io/feed.xml" htmlUrl="https://lexuge.github.io/"/>
 <outline title="Capbone" xmlUrl="http://feedpress.me/capbone" htmlUrl="http://capbone.com/"/>
 <outline title="CareF.Lm’s notebook" xmlUrl="http://caref.xyz/feed.xml" htmlUrl="http://www.caref.xyz/"/>
 <outline title="Chon's Blog" xmlUrl="https://ichon.me/feed/" htmlUrl="https://ichon.me"/>
 <outline title="CodingLabs" xmlUrl="http://blog.codinglabs.org/rss.xml" htmlUrl="http://blog.codinglabs.org/"/>
 <outline title="CS Slayer" xmlUrl="https://www.csslayer.info/wordpress/feed/" htmlUrl="https://www.csslayer.info/wordpress"/>
-<outline title="cuihao-&gt;blog" xmlUrl="http://cuihao.is-programmer.com/feed" htmlUrl="http://cuihao.is-programmer.com/"/>
+<outline title="cuihao;blog" xmlUrl="http://cuihao.is-programmer.com/feed" htmlUrl="http://cuihao.is-programmer.com/"/>
 <outline title="DOVEcho Blog - D.B." xmlUrl="http://dovecho.github.io/feed.xml" htmlUrl="http://dovecho.github.io/"/>
 <outline title="Farseerfc的小窩" xmlUrl="http://farseerfc.me/feeds/atom.xml" htmlUrl="http://farseerfc.me/"/>
 <outline title="Felix's Blog" xmlUrl="http://feeds.feedburner.com/felixcat?format=xml" htmlUrl="http://blog.felixc.at/"/>
@@ -35,7 +35,7 @@
 <outline title="Hacklook's Product View" xmlUrl="http://hacklook.com/rss" htmlUrl="http://hacklook.com/"/>
 <outline title="hawkyo's blog" xmlUrl="http://hawkyo.net/feed/" htmlUrl="http://hawkyo.net/"/>
 <outline title="Henry's Blog" xmlUrl="http://blog.henryhu.net/?feed=rss2" htmlUrl="http://blog.henryhu.net/"/>
-<outline title="/home/hexchain" xmlUrl="https://blog.hexchain.org/feeds/all.atom.xml" htmlUrl="https://blog.hexchain.org/"/>
+<outline title="hexchain" xmlUrl="https://blog.hexchain.org/feeds/all.atom.xml" htmlUrl="https://blog.hexchain.org/"/>
 <outline title="icebox" xmlUrl="https://quininer.github.io/rss.xml" htmlUrl="https://quininer.github.io/"/>
 <outline title="Igotit的空间" xmlUrl="http://by-igotit.com/feed" htmlUrl="http://by-igotit.com/"/>
 <outline title="IO-meter" xmlUrl="http://io-meter.com/atom.xml" htmlUrl="http://io-meter.com/"/>
@@ -67,7 +67,7 @@
 <outline title="Taresky" xmlUrl="http://taresky.com/feed" htmlUrl="http://taresky.com/"/>
 <outline title="tifan.net" xmlUrl="http://tifan.net/atom.xml" htmlUrl="https://tifan.net/"/>
 <outline title="Tyrant's Blog" xmlUrl="http://blog.acgtyrant.com/atom.xml" htmlUrl="http://blog.acgtyrant.com/"/>
-<outline title="/usr/sbin/blog" xmlUrl="http://www.usrsb.in/rss.xml" htmlUrl="http://usrsb.in"/>
+<outline title="usr-sbin-blog" xmlUrl="http://www.usrsb.in/rss.xml" htmlUrl="http://usrsb.in"/>
 <outline title="VeryUE" xmlUrl="http://blog.veryue.com/feed" htmlUrl="http://blog.veryue.com/"/>
 <outline title="Why's Blog" xmlUrl="http://blog.callmewhy.com/atom.xml" htmlUrl="http://blog.callmewhy.com/"/>
 <outline title="Xiaoji Chen's Design Weblog" xmlUrl="http://www.xiaoji-chen.com/feed.xml" htmlUrl="http://www.xiaoji-chen.com/blog"/>
