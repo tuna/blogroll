@@ -13,9 +13,9 @@
 
 在**最下面一行**添加 (相当于按时间顺序，为以后的增量提醒做准备)
 
- - 发issues
- - 直接加
- - Pull Request
+如果为 TUNA 组织成员，可以直接编辑此文件；否则，请向我们发送 pull request。
+
+推荐在 commit log 或者 pull request 里面简单介绍一下自己，比如常用的 ID 等。
 
 ## Lists
 
