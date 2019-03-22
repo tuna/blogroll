@@ -167,6 +167,7 @@ TUNA的同学们有权限可以直接编辑此文件；其它同学们烦请发p
 |特倫蘇-Lau | https://terencelau.cn/blog/atom.xml | https://terencelau.cn |
 | Harry Chen's Blog | https://harrychen.xyz/feed.xml | https://harrychen.xyz/ |
 | Project Aurora | https://mikukonai.com/feed.xml | https://mikukonai.com/ |
+| Wars Feng Blog | https://blog.wars.cat/index.php/feed | https://blog.wars.cat |
 
 
 ## OPML
