@@ -118,7 +118,7 @@ TUNA的同学们有权限可以直接编辑此文件；其它同学们烦请发p
 |难得明白| http://gaocong.org/blog/feed/ | http://gaocong.org/blog |
 |飞| http://flylai.com/feed | http://flylai.com |
 |高見龍| http://feeds.feedburner.com/aquarianboy?format=xml | http://kaochenlong.com/ |
-| 小小泥娃的部落格 | https://iecho.cc/feed/ | https://iecho.cc/ |
+| 小小泥娃的部落格 | https://iecho.cc/atom.xml | https://iecho.cc/ |
 | 禦狐神瀧夜 | https://rbq.ac.cn/feed | https://rbq.ac.cn/ |
 | Daisy's Podcast Review | http://daixy.me/feed.xml | http://daixy.me/ |
 | 单亚峰 | http://blog.kokonur.me/atom.xml | http://blog.kokonur.me/ |
