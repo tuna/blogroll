@@ -168,6 +168,7 @@ TUNA的同学们有权限可以直接编辑此文件；其它同学们烦请发p
 | Harry Chen's Blog | https://harrychen.xyz/feed.xml | https://harrychen.xyz/ |
 | Project Aurora | https://mikukonai.com/feed.xml | https://mikukonai.com/ |
 | Wars Feng Blog | https://blog.wars.cat/index.php/feed | https://blog.wars.cat |
+| 神代夕綺 の Blog | https://dreamrill.cn/feed | https://dreamrill.cn |
 
 
 ## OPML
