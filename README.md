@@ -132,7 +132,6 @@ TUNA的同学们有权限可以直接编辑此文件；其它同学们烦请发p
 | Nova Kwok's Awesome Blog | https://nova.moe/atom.xml | https://nova.moe/ |
 | Kamikat's Blog | https://banana.moe/feed.xml | https://banana.moe/ |
 | gaocegege 的博客 | http://gaocegege.com/Blog/rss.xml | http://gaocegege.com/Blog/ | 
-| Ruotian's Blog | https://zrt.io/blog/atom.xml | https://zrt.io/blog/ |
 | 纸飞机 - jxj | http://sdr-x.github.io/feed.xml | http://sdr-x.github.io | 
 |Chenyao's Blog| https://blog.lcy.im/atom.xml | https://blog.lcy.im/ |
 | Palace | http://nameless.wang/atom.xml | http://nameless.wang/ |
@@ -164,12 +163,13 @@ TUNA的同学们有权限可以直接编辑此文件；其它同学们烦请发p
 | chen's 垃圾桶 | https://chenassert.xyz/feed/ | https://chenassert.xyz/ |
 | 始终 | https://liam.page/atom.xml | https://liam.page/ |
 | Begin-End | https://liam.page/en/atom.xml | https://liam.page/en/ |
-|特倫蘇-Lau | https://terencelau.cn/blog/atom.xml | https://terencelau.cn |
+| 特倫蘇-Lau | https://terencelau.cn/blog/atom.xml | https://terencelau.cn |
 | Harry Chen's Blog | https://harrychen.xyz/feed.xml | https://harrychen.xyz/ |
 | Project Aurora | https://mikukonai.com/feed.xml | https://mikukonai.com/ |
 | Wars Feng Blog | https://blog.wars.cat/index.php/feed | https://blog.wars.cat |
+| 黎明灰烬 博客 | https://jackwish.net/feed.xml | https://jackwish.net |
+| Ruotian's Blog | https://yeah.moe/atom.xml | https://yeah.moe/ |
 | 神代夕綺 の Blog | https://dreamrill.cn/feed | https://dreamrill.cn |
-
 
 ## OPML
 
