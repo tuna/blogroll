@@ -116,7 +116,6 @@
 <outline title="Nova Kwok's Awesome Blog" xmlUrl="https://nova.moe/atom.xml" htmlUrl="https://nova.moe/"/>
 <outline title="Kamikat's Blog" xmlUrl="https://banana.moe/feed.xml" htmlUrl="https://banana.moe/"/>
 <outline title="gaocegege 的博客" xmlUrl="http://gaocegege.com/Blog/rss.xml" htmlUrl="http://gaocegege.com/Blog/"/>
-<outline title="Ruotian's Blog" xmlUrl="https://zrt.io/blog/atom.xml" htmlUrl="https://zrt.io/blog/"/>
 <outline title="纸飞机 - jxj" xmlUrl="http://sdr-x.github.io/feed.xml" htmlUrl="http://sdr-x.github.io"/>
 <outline title="Chenyao's Blog" xmlUrl="https://blog.lcy.im/atom.xml" htmlUrl="https://blog.lcy.im/"/>
 <outline title="Palace" xmlUrl="http://nameless.wang/atom.xml" htmlUrl="http://nameless.wang/"/>
@@ -152,6 +151,7 @@
 <outline title="Harry Chen's Blog" xmlUrl="https://harrychen.xyz/feed.xml" htmlUrl="https://harrychen.xyz/"/>
 <outline title="Project Aurora" xmlUrl="https://mikukonai.com/feed.xml" htmlUrl="https://mikukonai.com/"/>
 <outline title="Wars Feng Blog" xmlUrl="https://blog.wars.cat/index.php/feed" htmlUrl="https://blog.wars.cat"/>
+<outline title="Ruotian's Blog" xmlUrl="https://yeah.moe/atom.xml" htmlUrl="https://yeah.moe/"/>
 
   </body>
 </opml>
