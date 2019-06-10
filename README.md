@@ -171,6 +171,7 @@ TUNA的同学们有权限可以直接编辑此文件；其它同学们烦请发p
 | Ruotian's Blog | https://yeah.moe/atom.xml | https://yeah.moe/ |
 | 神代夕綺 の Blog | https://dreamrill.cn/feed | https://dreamrill.cn |
 | 米米的博客 | https://zhangshuqiao.org/atom.xml | https://zhangshuqiao.org/ |
+| Prof.Fan's Secret Garden | https://blog.amayume.net/rss/ | https://blog.amayume.net |
 
 
 ## OPML
