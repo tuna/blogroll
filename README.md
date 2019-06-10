@@ -169,6 +169,7 @@ TUNA的同学们有权限可以直接编辑此文件；其它同学们烦请发p
 | Wars Feng Blog | https://blog.wars.cat/index.php/feed | https://blog.wars.cat |
 | 黎明灰烬 博客 | https://jackwish.net/feed.xml | https://jackwish.net |
 | Ruotian's Blog | https://yeah.moe/atom.xml | https://yeah.moe/ |
+| 神代夕綺 の Blog | https://dreamrill.cn/feed | https://dreamrill.cn |
 
 ## OPML
 
