@@ -95,7 +95,7 @@ TUNA的同学们有权限可以直接编辑此文件；其它同学们烦请发p
 |Yuxin's Blog| http://ppwwyyxx.com/atom.xml | http://ppwwyyxx.com/ |
 |Zongting Lv| http://lvzongting.github.io/atom.xml | http://lvzongting.github.io/ |
 |七月的夏天| http://julyclyde.org/?feed=rss2 | http://julyclyde.org/ |
-|依云's Blog| http://lilydjwg.is-programmer.com/posts.rss | http://lilydjwg.is-programmer.com/ |
+|依云's Blog| https://blog.lilydjwg.me/posts.rss | https://blog.lilydjwg.me/ |
 |兰湾| http://st.avros.net//feeds/all.rss.xml | http://st.avros.net/ |
 |半瓶| http://www.orangeclk.com/atom.xml | http://www.orangeclk.com/ |
 |太阳日志| http://www.sunjw.us/blog/feed/ | http://www.sunjw.us/blog |
