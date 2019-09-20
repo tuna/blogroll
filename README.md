@@ -54,6 +54,7 @@ TUNA的同学们有权限可以直接编辑此文件；其它同学们烦请发p
 |hexchain| https://blog.hexchain.org/feeds/all.atom.xml | https://blog.hexchain.org/ |
 |icebox| https://quininer.github.io/rss.xml | https://quininer.github.io/ |
 |Igotit的空间| http://by-igotit.com/feed | http://by-igotit.com/ |
+|in /dev/null| https://innull.com/atom.xml | https://innull.com/ |
 |IO-meter| http://io-meter.com/atom.xml | http://io-meter.com/ |
 |Jarett's Blog| http://www.nigesb.com/feed | http://www.nigesb.com/ |
 |JayXon| http://www.jayxon.com/feed/ | https://www.jayxon.com/ |
