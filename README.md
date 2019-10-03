@@ -173,6 +173,7 @@ TUNA的同学们有权限可以直接编辑此文件；其它同学们烦请发p
 | 米米的博客 | https://zhangshuqiao.org/atom.xml | https://zhangshuqiao.org/ |
 | Prof.Fan's Secret Garden | https://blog.amayume.net/rss/ | https://blog.amayume.net |
 | Cryptospace | https://dbarobin.com/feed.xml | https://dbarobin.com |
+| Berrysoft的博客 | https://berrysoft.github.io/blogdata/feed.xml | https://berrysoft.github.io/blog/ |
 | Angel_Kitty's Blog | http://feed.cnblogs.com/blog/u/329976/rss/ | https://www.cnblogs.com/ECJTUACM-873284962/ |
 
 ## OPML
