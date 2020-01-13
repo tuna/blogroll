@@ -179,6 +179,8 @@ TUNA的同学们有权限可以直接编辑此文件；其它同学们烦请发p
 | C3Meow | https://backend.meow.c-3.moe/feed | https://meow.c-3.moe |
 | MeltyLand of geneLocated | https://melty.land/feed.xml | https://melty.land |
 | HexChristmas's Blog | https://hexchristmas.github.io/atom.xml | https://hexchristmas.github.io/ |
+| Bboysoul's Blog | https://www.bboy.app/atom.xml | https://www.bboy.app/ |
+
 ## OPML
 
 <https://tuna.github.io/blogroll/opml.xml>
