@@ -45,7 +45,6 @@ TUNA的同学们有权限可以直接编辑此文件；其它同学们烦请发p
 |From Zero To X| http://blog.ztrix.me/atom.xml | http://blog.ztrix.me/ |
 |ftofficer - 张聪的blog| http://blog.ftofficer.com/feed/ | http://blog.ftofficer.com/ |
 |Fugoes's Blog| https://blog.fugoes.xyz/feed.xml | https://blog.fugoes.xyz |
-|Galois, Inc.| https://galois.com/feed/ | https://galois.com |
 |Giuem| http://www.giuem.com/atom.xml | http://www.giuem.com |
 |Gu Lu's Blog| http://gulu-dev.com/feed | http://gulu-dev.com/ |
 |Hacklook's Product View| http://hacklook.com/rss | http://hacklook.com/ |
