@@ -146,7 +146,7 @@ TUNA的同学们有权限可以直接编辑此文件；其它同学们烦请发p
 |Konano's Blog| https://konanoo.com/atom.xml | https://konanoo.com/ |
 |浮梦记| https://www.fumengji.com/index.xml | https://www.fumengji.com/ |
 |Dimpurr Cheny: 钉子の次元| http://blog.dimpurr.com/feed | http://dimpurr.com/ |
-|Dex Hunter's Blog| https://dexhunter.github.io/feed.xml | https://dexhunter.github.io/ |
+|Dex Hunter's Blog| https://blog.dex.moe/feed.xml | https://blog.dex.moe/ |
 |Brian's Blog| http://brianleelxt.top/atom.xml| http://brianleelxt.top/|
 |PRIEWIENV's Blog| https://blog.priewienv.me/index.xml | https://blog.priewienv.me/ |
 |兔子鲜笙的博客| https://blog.tuzi.moe/rss/ | https://blog.tuzi.moe/ |
