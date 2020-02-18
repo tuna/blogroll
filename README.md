@@ -180,6 +180,7 @@ TUNA的同学们有权限可以直接编辑此文件；其它同学们烦请发p
 | HexChristmas's Blog | https://hexchristmas.github.io/atom.xml | https://hexchristmas.github.io/ |
 | Bboysoul's Blog | https://www.bboy.app/atom.xml | https://www.bboy.app/ |
 | Papersnake | https://psmoe.com/feed/ | https://psmoe.com/ |
+| Lenciel | https://lenciel.com/feed.xml | https://lenciel.com |
 
 ## OPML
 
