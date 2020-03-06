@@ -182,6 +182,8 @@ TUNA的同学们有权限可以直接编辑此文件；其它同学们烦请发p
 | Papersnake | https://psmoe.com/feed/ | https://psmoe.com/ |
 | Lenciel | https://lenciel.com/feed.xml | https://lenciel.com |
 | Jeremy's Blog | https://www.mkernel.com/feed | https://www.mkernel.com |
+| 1A23 Studio | https://1a23.com/feed/ | https://1a23.com/ |
+
 ## OPML
 
 <https://tuna.github.io/blogroll/opml.xml>
