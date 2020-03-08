@@ -126,7 +126,7 @@ TUNA的同学们有权限可以直接编辑此文件；其它同学们烦请发p
 |Jiajie Chen's blog| https://jiegec.github.io/feed.xml | https://jiegec.github.io/ |
 | dotkrnl 刘家昌 | http://laukc.com/feed.xml | laukc.com , dotkrnl.com |
 | ヨイツの賢狼ホロ | https://blog.yoitsu.moe/feeds/all.atom.xml | https://blog.yoitsu.moe/ |
-| 綺麗な賢狼ホロ - jsteward | https://github.com/KireinaHoro/jsteward.moe | https://jsteward.moe/ |
+| 綺麗な賢狼ホロ - jsteward | https://jsteward.moe/feeds/all.atom.xml | https://jsteward.moe/ |
 | huiyiqun | https://blog.huiyiqun.me/feed.xml | https://blog.huiyiqun.me/ |
 | Nova Kwok's Awesome Blog | https://nova.moe/atom.xml | https://nova.moe/ |
 | Kamikat's Blog | https://banana.moe/feed.xml | https://banana.moe/ |
