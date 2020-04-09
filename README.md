@@ -183,7 +183,7 @@ TUNA的同学们有权限可以直接编辑此文件；其它同学们烦请发p
 | Lenciel | https://lenciel.com/feed.xml | https://lenciel.com |
 | Jeremy's Blog | https://www.mkernel.com/feed | https://www.mkernel.com |
 | 1A23 Studio | https://1a23.com/feed/ | https://1a23.com/ |
-| 北京龙芯用户俱乐部::刘世伟 | https://www.bjlx.org.cn/ | https://www.bjlx.org.cn/blog/1/feed |
+| 北京龙芯用户俱乐部::刘世伟 | https://www.bjlx.org.cn/blog/1/feed | https://www.bjlx.org.cn/ | 
 
 ## OPML
 
