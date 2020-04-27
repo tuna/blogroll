@@ -184,6 +184,7 @@ TUNA的同学们有权限可以直接编辑此文件；其它同学们烦请发p
 | Jeremy's Blog | https://www.mkernel.com/feed | https://www.mkernel.com |
 | 1A23 Studio | https://1a23.com/feed/ | https://1a23.com/ |
 | 北京龙芯用户俱乐部::刘世伟 | https://www.bjlx.org.cn/blog/1/feed | https://www.bjlx.org.cn/ | 
+| 浅忆博客 | http://blog.dingstudio.cn/feed/ | http://blog.dingstudio.cn/ | 
 
 ## OPML
 
