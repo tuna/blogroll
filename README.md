@@ -70,7 +70,6 @@ TUNA的同学们有权限可以直接编辑此文件；其它同学们烦请发p
 |Otter Net| http://www.vuryleo.com/atom.xml | https://vuryleo.com/ |
 |Phoenix's island| https://blog.phoenixlzx.com/atom.xml | http://blog.phoenixlzx.com/ |
 |polyhedron(古韻)的博客| http://blog.sina.com.cn/rss/1180557177.xml | http://blog.sina.com.cn/ychromosome |
-|Prof.Fan's Secret Garden| https://blog.amayume.net/rss/ | https://blog.amayume.net/ |
 |Puncsky CS Notebook| http://www.puncsky.com/atom.xml | http://www.puncsky.com/ |
 |Random Tech Thoughts| https://chenyufei.info/atom.xml | http://chenyufei.info/ |
 |RoBa's blog| http://heliang.me/blog/?feed=rss2 | http://heliang.me/blog |
