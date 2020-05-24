@@ -185,6 +185,7 @@ TUNA的同学们有权限可以直接编辑此文件；其它同学们烦请发p
 | 北京龙芯用户俱乐部::刘世伟 | https://www.bjlx.org.cn/blog/1/feed | https://www.bjlx.org.cn/ | 
 | 浅忆博客 | http://blog.dingstudio.cn/feed/ | http://blog.dingstudio.cn/ | 
 | Pinboard of wwx | https://feeds.pinboard.in/rss/u:stieizc/ | https://wenxinwang.me/ |
+| NekoDaemon's Blog | https://nekodaemon.com/atom.xml | https://nekodaemon.com/ |
 
 ## OPML
 
