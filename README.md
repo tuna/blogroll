@@ -31,7 +31,6 @@ TUNA的同学们有权限可以直接编辑此文件；其它同学们烦请发p
 |Blink's Blog| https://blog.blink.moe/feed/ | https://blog.blink.moe/ |
 |blog.tomtun.com| http://blog.tomtung.com/feed/atom.xml | http://blog.tomtung.com/ |
 |BLOG-LEXUGE| https://lexuge.github.io/feed.xml | https://lexuge.github.io/ |
-|Capbone| http://feedpress.me/capbone | http://capbone.com/ |
 |CareF.Lm’s notebook| http://caref.xyz/feed.xml | http://www.caref.xyz/ |
 |Chon's Blog| https://ichon.me/feed/ | https://ichon.me |
 |CodingLabs| http://blog.codinglabs.org/rss.xml | http://blog.codinglabs.org/ |
