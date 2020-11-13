@@ -187,6 +187,7 @@ TUNA的同学们有权限可以直接编辑此文件；其它同学们烦请发p
 | NekoDaemon's Blog | https://nekodaemon.com/atom.xml | https://nekodaemon.com/ |
 | 鸿雁自南人自北 Blog | https://renzibei.com/atom.xml | https://renzibei.com | 
 | Snowflower |  https://snowflowersnowflake.github.io/feed.xml | https://snowflowersnowflake.github.io |
+| Fidel's Lab | https://fidel.js.org/atom.xml | https://fidel.js.org/ |
 
 ## OPML
 
