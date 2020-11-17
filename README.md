@@ -58,7 +58,7 @@ TUNA的同学们有权限可以直接编辑此文件；其它同学们烦请发p
 |kaori| http://aroma.ichon.me/feed | https://aroma.ichon.me |
 |K.I.S.S| http://bigeagle.me/feed/ | http://bigeagle.me/ |
 |Kxn's eXercise Notes| http://blog.kangkang.org/index.php/feed | http://blog.kangkang.org/ |
-|laike9m's blog| https://laike9m.com/blog/rss/ | https://laike9m.com/blog/rss |
+|laike9m's blog| https://laike9m.com/blog/rss/ | https://laike9m.com/blog/ |
 |Lex 汤| http://lextang.com/rss | http://lextang.com/ |
 |Librehat's Blog| https://www.librehat.com/feed/ | https://www.librehat.com/ |
 |Lv. MAX| https://maxlv.net/rss/ | https://maxlv.net/ |
