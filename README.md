@@ -194,6 +194,7 @@ TUNA的同学们有权限可以直接编辑此文件；其它同学们烦请发p
 | 251's Blog | https://blog.251.sh/feed/ | https://blog.251.sh |
 | Fidel's Lab | https://fidel.js.org/atom.xml | https://fidel.js.org/ |
 | MiaoTony's Blog | https://miaotony.xyz/atom.xml | https://miaotony.xyz/ |
+| fern's blog | https://blog.xocc.cc/rss.xml | https://blog.xocc.cc |
 
 ## OPML
 
