@@ -195,6 +195,7 @@ TUNA的同学们有权限可以直接编辑此文件；其它同学们烦请发p
 | Fidel's Lab | https://fidel.js.org/atom.xml | https://fidel.js.org/ |
 | MiaoTony's Blog | https://miaotony.xyz/atom.xml | https://miaotony.xyz/ |
 | fern's blog | https://blog.xocc.cc/rss.xml | https://blog.xocc.cc |
+| God-x 学习日记 | https://peacecity.cn/atom.xml | https://peacecity.cn |
 
 ## OPML
 
