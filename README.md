@@ -169,7 +169,6 @@ TUNA的同学们有权限可以直接编辑此文件；其它同学们烦请发p
 | Project Aurora | https://mikukonai.com/feed.xml | https://mikukonai.com/ |
 | Wars Feng Blog | https://blog.wars.cat/feed | https://blog.wars.cat |
 | 黎明灰烬 博客 | https://jackwish.net/feed.xml | https://jackwish.net |
-| Ruotian's Blog | https://yeah.moe/atom.xml | https://yeah.moe/ |
 | Kira Blog | https://kira.cool/feed | https://kira.cool |
 | 米米的博客 | https://zhangshuqiao.org/atom.xml | https://zhangshuqiao.org/ |
 | Prof.Fan's Secret Garden | https://blog.amayume.net/rss/ | https://blog.amayume.net |
@@ -198,6 +197,7 @@ TUNA的同学们有权限可以直接编辑此文件；其它同学们烦请发p
 | God-x 学习日记 | https://peacecity.cn/atom.xml | https://peacecity.cn |
 | 周友松的博客  | http://www.zhouyousong.cn/?feed=rss2 | http://www.zhouyousong.cn |
 | Thinking Null | https://awsl.blog/feed/ | https://awsl.blog |
+| zrt's blog | https://zrt.io/feed/ | https://zrt.io/ |
 ## OPML
 
 <https://tuna.github.io/blogroll/opml.xml>
