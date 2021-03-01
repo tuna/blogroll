@@ -153,7 +153,7 @@ TUNA的同学们有权限可以直接编辑此文件；其它同学们烦请发p
 |PRIEWIENV's Blog| https://blog.priewienv.me/index.xml | https://blog.priewienv.me/ |
 |兔子鲜笙的博客| https://blog.tuzi.moe/rss/ | https://blog.tuzi.moe/ |
 | Yiran 的博客 | https://yiran.moe/atom.xml | https://yiran.moe |
-| Hello From Junde Yhi | https://lmy441900.github.io/feed.xml | https://lmy441900.github.io |
+| Hello From Junde Yhi | https://www.yhi.moe/feed.xml | https://www.yhi.moe/blog/ |
 | Lee's Blog | https://lee981265.github.io/atom.xml   |https://lee981265.github.io      |
 | (Power up) | https://kevinjiang.info/atom.xml | https://kevinjiang.info |
 | heroxbd    | https://heroxbd.github.io/feed.xml | https://heroxbd.github.io/ |
