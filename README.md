@@ -198,6 +198,8 @@ TUNA的同学们有权限可以直接编辑此文件；其它同学们烦请发p
 | 周友松的博客  | http://www.zhouyousong.cn/?feed=rss2 | http://www.zhouyousong.cn |
 | Thinking Null | https://awsl.blog/feed/ | https://awsl.blog |
 | zrt's blog | https://zrt.io/feed/ | https://zrt.io/ |
+| Hong Ren | https://blog.zenithal.me/atom.xml | https://blog.zenithal.me/ |
+
 ## OPML
 
 <https://tuna.github.io/blogroll/opml.xml>
