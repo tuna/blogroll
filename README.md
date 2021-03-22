@@ -199,6 +199,7 @@ TUNA的同学们有权限可以直接编辑此文件；其它同学们烦请发p
 | Thinking Null | https://awsl.blog/feed/ | https://awsl.blog |
 | zrt's blog | https://zrt.io/feed/ | https://zrt.io/ |
 | Hong Ren | https://blog.zenithal.me/atom.xml | https://blog.zenithal.me/ |
+| zu1k's blog | https://lgf.im/index.xml | https://lgf.im/ |
 
 ## OPML
 
