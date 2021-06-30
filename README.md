@@ -202,6 +202,7 @@ TUNA的同学们有权限可以直接编辑此文件；其它同学们烦请发p
 | zu1k's blog | https://lgf.im/index.xml | https://lgf.im/ |
 | SilverRainZ 的银色子弹 | https://silverrainz.me/blog/atom.xml | https://silverrainz.me/ |
 | 晨曦的博客 | https://blog.whuzfb.cn/feed.xml | https://blog.whuzfb.cn/ |
+| lyer's blog | https://biningo.github.io/index.xml | https://biningo.github.io |
 | QuarticCat's Blog | https://blog.quarticcat.com/index.xml | https://blog.quarticcat.com/ |
 
 ## OPML
