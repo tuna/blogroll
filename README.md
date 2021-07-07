@@ -165,7 +165,7 @@
 | chen's 垃圾桶 | https://chenassert.xyz/feed/ | https://chenassert.xyz/ |
 | 始终 | https://liam.page/atom.xml | https://liam.page/ |
 | Begin-End | https://liam.page/en/atom.xml | https://liam.page/en/ |
-|特倫蘇-Lau | https://terencelau.cn/blog/atom.xml | https://terencelau.cn |
+|特倫蘇-Lau | https://www.deluxelau.com/index.xml | https://www.deluxelau.com/ |
 
 ## OPML
 
