@@ -63,12 +63,10 @@ TUNA的同学们有权限可以直接编辑此文件；其它同学们烦请发p
 |K.I.S.S| http://bigeagle.me/feed/ | http://bigeagle.me/ |
 |Kxn's eXercise Notes| http://blog.kangkang.org/index.php/feed | http://blog.kangkang.org/ |
 |laike9m's blog| https://laike9m.com/blog/rss/ | https://laike9m.com/blog/ |
-|Lex 汤| http://lextang.com/rss | http://lextang.com/ |
 |Librehat's Blog| https://www.librehat.com/feed/ | https://www.librehat.com/ |
 |Lv. MAX| https://maxlv.net/rss/ | https://maxlv.net/ |
 |MaskRay| http://maskray.me/atom.xml | http://maskray.me/blog |
 |May the #! be with you| https://onebitbug.me/feed/atom.xml | https://onebitbug.me/ |
-|MWeb| http://zh.mweb.im/atom.xml | http://zh.mweb.im/ |
 |oldj's blog| http://oldj.net/feed/ | http://oldj.net/ |
 |Otter Net| http://www.vuryleo.com/atom.xml | https://vuryleo.com/ |
 |Phoenix's island| https://blog.phoenixlzx.com/atom.xml | http://blog.phoenixlzx.com/ |
@@ -111,7 +109,6 @@ TUNA的同学们有权限可以直接编辑此文件；其它同学们烦请发p
 |破立| http://blog.wutj.info/feed/ | http://blog.wutj.info |
 |笨土豆的IT小站 | https://www.bennythink.com/feed | https://www.bennythink.com/ |
 |老赵点滴 - 追求编程之美| http://blog.zhaojie.me/rss | http://blog.zhaojie.me/ |
-|语焉不详| http://www.scoopguo.com/index.php/feed/ | http://www.scoopguo.com/ |
 |贺叶霜的树：III| https://heyeshuang.github.io/blog/feed.xml | https://heyeshuang.github.io/blog/ |
 |赵达的个人网站 - Zhao Da's Personal Website| http://zhaoda.net/feed.xml | http://zhaoda.net/ |
 |铜芯科技技术博客| https://typcn.com/legacy/blog/feed.xml | https://typcn.com/legacy/blog/ |
@@ -182,7 +179,6 @@ TUNA的同学们有权限可以直接编辑此文件；其它同学们烦请发p
 | Bboysoul's Blog | https://www.bboy.app/atom.xml | https://www.bboy.app/ |
 | Papersnake | https://psmoe.com/feed/ | https://psmoe.com/ |
 | Lenciel | https://lenciel.com/feed.xml | https://lenciel.com |
-| Jeremy's Blog | https://www.mkernel.com/feed | https://www.mkernel.com |
 | 1A23 Studio | https://1a23.com/feed/ | https://1a23.com/ |
 | 北京龙芯用户俱乐部::刘世伟 | https://www.bjlx.org.cn/blog/1/feed | https://www.bjlx.org.cn/ | 
 | 浅忆博客 | http://blog.dingstudio.cn/feed/ | http://blog.dingstudio.cn/ | 
@@ -205,6 +201,7 @@ TUNA的同学们有权限可以直接编辑此文件；其它同学们烦请发p
 | lyer's blog | https://biningo.github.io/index.xml | https://biningo.github.io |
 | QuarticCat's Blog | https://blog.quarticcat.com/index.xml | https://blog.quarticcat.com/ |
 | WeepingDogel's Blog | https://weepingdogel.github.io/index.xml | https://weepingdogel.github.io/ |
+| huggy's blog | https://blog.huggy.moe/index.xml | https://blog.huggy.moe/ |
 
 ## OPML
 
