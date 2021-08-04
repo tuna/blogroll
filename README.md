@@ -161,7 +161,7 @@ TUNA的同学们有权限可以直接编辑此文件；其它同学们烦请发p
 | chen's 垃圾桶 | https://chenassert.xyz/feed/ | https://chenassert.xyz/ |
 | 始终 | https://liam.page/atom.xml | https://liam.page/ |
 | Begin-End | https://liam.page/en/atom.xml | https://liam.page/en/ |
-| 特倫蘇-Lau | https://terencelau.cn/blog/atom.xml | https://terencelau.cn |
+| 特倫蘇-Lau | https://www.deluxelau.com/index.xml | https://www.deluxelau.com/ |
 | Harry Chen's Blog | https://harrychen.xyz/feed.xml | https://harrychen.xyz/ |
 | 业余无线电台BD4SUR | https://bd4sur.com/feed.xml | https://bd4sur.com/ |
 | Wars Feng Blog | https://blog.wars.cat/feed | https://blog.wars.cat |
