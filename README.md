@@ -202,6 +202,7 @@ TUNA的同学们有权限可以直接编辑此文件；其它同学们烦请发p
 | QuarticCat's Blog | https://blog.quarticcat.com/index.xml | https://blog.quarticcat.com/ |
 | WeepingDogel's Blog | https://weepingdogel.github.io/index.xml | https://weepingdogel.github.io/ |
 | huggy's blog | https://blog.huggy.moe/index.xml | https://blog.huggy.moe/ |
+| Jun's Blog | https://www.junz.org/index.xml | https://www.junz.org |
 
 ## OPML
 
