@@ -1,4 +1,4 @@
-name: Build documentation with mkdocs
+name: 'Build & Validate OPML file' 
 
 on: [push]
 
@@ -44,5 +44,5 @@ jobs:
         git clean -fxd
         cp -a ../opml.xml ./
         git add .
-        git commit -m "Github Action auto build for https://github.com/${GITHUB_REPO}/commit/${git_commit_id}"
+        git commit -m --allow-empty "Github Action auto build for https://github.com/${GITHUB_REPO}/commit/${git_commit_id}"
         git push -u origin master:$REMOTE_BRANCH

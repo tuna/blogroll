@@ -10,6 +10,8 @@ sys.path.append(path.join(path.dirname(__file__), 'feedvalidator', 'src'))
 
 from bs4 import BeautifulSoup
 import feedvalidator
+import socket
+socket.setdefaulttimeout(5)
 
 with open(sys.argv[1], 'r') as opmlFile:
 
