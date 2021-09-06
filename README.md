@@ -1,6 +1,6 @@
-# tuna/blogroll
+# TUNA Blogroll
 
-世界一流兼容并包TUNA协会收集的周围同学们的Blog
+世界一流兼容并包 TUNA 协会收集的周围同学们的 Blog。
 
 ## FAQ
 
@@ -14,9 +14,9 @@
 
 ## 添加方式
 
-在**最下面一行**添加 (相当于按时间顺序，为以后的增量提醒做准备)
+在**最下面一行**添加（相当于按时间顺序，为以后的增量提醒做准备）。
 
-TUNA的同学们有权限可以直接编辑此文件；其它同学们烦请发pull request。
+TUNA的同学们有权限可以直接编辑此文件；其它同学们烦请发 pull request。
 
 推荐在 commit log 或者 pull request 里面简单介绍一下自己，比如常用的 ID 等。
 
@@ -206,14 +206,8 @@ TUNA的同学们有权限可以直接编辑此文件；其它同学们烦请发p
 
 <https://tuna.github.io/blogroll/opml.xml>
 
-(感谢 @CircuitCoder 提供Travis脚本)
-
-在Inoreader里可以持续订阅;在Feedly里可以下载之后导入.
-
-## TODO
-
- - [X] 提供OPML?
- - [X] 提供类似Inoreader的远程OPML订阅?
+在 Inoreader 里可以持续订阅，在 Feedly 里可以下载之后导入。
  
 ## See Also
- - https://github.com/timqian/chinese-independent-blogs
+
+- https://github.com/timqian/chinese-independent-blogs
