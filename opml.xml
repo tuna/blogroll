@@ -1,7 +1,7 @@
 
 <opml version="2.0">
   <head>
-    <title></title>
+    <title>TUNA Blogroll</title>
   </head>
   <body>
 
@@ -48,7 +48,7 @@
 <outline title="MaskRay" xmlUrl="http://maskray.me/atom.xml" htmlUrl="http://maskray.me/blog"/>
 <outline title="May the #! be with you" xmlUrl="https://onebitbug.me/feed/atom.xml" htmlUrl="https://onebitbug.me/"/>
 <outline title="oldj's blog" xmlUrl="http://oldj.net/feed/" htmlUrl="http://oldj.net/"/>
-<outline title="Otter Ne" xmlUrl="http://www.vuryleo.com/atom.xml" htmlUrl="https://vuryleo.com/"/>
+<outline title="Otter Net" xmlUrl="http://www.vuryleo.com/atom.xml" htmlUrl="https://vuryleo.com/"/>
 <outline title="Phoenix's island" xmlUrl="https://blog.phoenixlzx.com/atom.xml" htmlUrl="http://blog.phoenixlzx.com/"/>
 <outline title="polyhedron(古韻)的博客" xmlUrl="http://blog.sina.com.cn/rss/1180557177.xml" htmlUrl="http://blog.sina.com.cn/ychromosome"/>
 <outline title="Puncsky CS Notebook" xmlUrl="http://www.puncsky.com/atom.xml" htmlUrl="http://www.puncsky.com/"/>
@@ -60,7 +60,7 @@
 <outline title="Scateu Blog" xmlUrl="http://scateu.me/feed.xml" htmlUrl="http://scateu.github.io/"/>
 <outline title="Scateu Pinboard" xmlUrl="https://feeds.pinboard.in/rss/u:scateu/" htmlUrl="https://pinboard.in/u:scateu/public/"/>
 <outline title="Taresky" xmlUrl="http://taresky.com/feed" htmlUrl="http://taresky.com/"/>
-<outline title="ifan.ne" xmlUrl="http://tifan.net/atom.xml" htmlUrl="https://tifan.net/"/>
+<outline title="tifan.net" xmlUrl="http://tifan.net/atom.xml" htmlUrl="https://tifan.net/"/>
 <outline title="Tyrant's Blog" xmlUrl="http://blog.acgtyrant.com/atom.xml" htmlUrl="http://blog.acgtyrant.com/"/>
 <outline title="usr-sbin-blog" xmlUrl="http://www.usrsb.in/rss.xml" htmlUrl="http://usrsb.in"/>
 <outline title="VeryUE" xmlUrl="http://blog.veryue.com/feed" htmlUrl="http://blog.veryue.com/"/>
@@ -144,11 +144,11 @@
 <outline title="特倫蘇-Lau" xmlUrl="https://www.deluxelau.com/index.xml" htmlUrl="https://www.deluxelau.com/"/>
 <outline title="Harry Chen's Blog" xmlUrl="https://harrychen.xyz/feed.xml" htmlUrl="https://harrychen.xyz/"/>
 <outline title="业余无线电台BD4SUR" xmlUrl="https://bd4sur.com/feed.xml" htmlUrl="https://bd4sur.com/"/>
-<outline title="Wars Feng Blog" xmlUrl="https://blog.wars.cat/feed" htmlUrl="https://blog.wars.ca"/>
-<outline title="黎明灰烬 博客" xmlUrl="https://jackwish.net/feed.xml" htmlUrl="https://jackwish.ne"/>
+<outline title="Wars Feng Blog" xmlUrl="https://blog.wars.cat/feed" htmlUrl="https://blog.wars.cat"/>
+<outline title="黎明灰烬 博客" xmlUrl="https://jackwish.net/feed.xml" htmlUrl="https://jackwish.net"/>
 <outline title="Kira Blog" xmlUrl="https://kira.cool/feed" htmlUrl="https://kira.cool"/>
 <outline title="米米的博客" xmlUrl="https://zhangshuqiao.org/atom.xml" htmlUrl="https://zhangshuqiao.org/"/>
-<outline title="Prof.Fan's Secret Garden" xmlUrl="https://blog.amayume.net/rss/" htmlUrl="https://blog.amayume.ne"/>
+<outline title="Prof.Fan's Secret Garden" xmlUrl="https://blog.amayume.net/rss/" htmlUrl="https://blog.amayume.net"/>
 <outline title="Mathor" xmlUrl="https://wmathor.com/index.php/feed" htmlUrl="https://wmathor.com"/>
 <outline title="Berrysoft的博客" xmlUrl="https://berrysoft.github.io/blogdata/feed.xml" htmlUrl="https://berrysoft.github.io/blog/"/>
 <outline title="Angel_Kitty's Blog" xmlUrl="http://feed.cnblogs.com/blog/u/329976/rss/" htmlUrl="https://www.cnblogs.com/ECJTUACM-873284962/"/>
