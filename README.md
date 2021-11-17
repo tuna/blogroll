@@ -201,6 +201,7 @@ TUNA的同学们有权限可以直接编辑此文件；其它同学们烦请发 
 | WeepingDogel's Blog | https://weepingdogel.github.io/index.xml | https://weepingdogel.github.io/ |
 | huggy's blog | https://blog.huggy.moe/index.xml | https://blog.huggy.moe/ |
 | Jun's Blog | https://www.junz.org/index.xml | https://www.junz.org |
+| 日下部 詩's Space | https://www.kskb.eu.org/feeds/posts/default?alt=rss | https://www.kskb.eu.org |
 | Phoenix Rain | https://blog.lhp-pku.top/atom.xml | https://blog.lhp-pku.top/ |
 
 ## OPML
