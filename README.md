@@ -43,7 +43,7 @@ TUNA的同学们有权限可以直接编辑此文件；其它同学们烦请发 
 |Farseerfc的小窩| http://farseerfc.me/feeds/atom.xml | http://farseerfc.me/ |
 |Felix's Blog| http://feeds.feedburner.com/felixcat?format=xml | http://blog.felixc.at/ |
 |Firefly 风物| http://bobylive.com/feed | http://bobylive.com/ |
-|Frantic log#1048| http://frantic1048.logdown.com/posts.atom | http://frantic1048.logdown.com |
+|Frantic1048| https://pyonpyon.today/rss.xml | https://pyonpyon.today/ |
 |From Zero To X| http://blog.ztrix.me/atom.xml | http://blog.ztrix.me/ |
 |ftofficer - 张聪的blog| http://blog.ftofficer.com/feed/ | http://blog.ftofficer.com/ |
 |Fugoes's Blog| https://blog.fugoes.xyz/feed.xml | https://blog.fugoes.xyz |
