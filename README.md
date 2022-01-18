@@ -203,6 +203,7 @@ TUNA的同学们有权限可以直接编辑此文件；其它同学们烦请发 
 | Jun's Blog | https://www.junz.org/index.xml | https://www.junz.org |
 | 日下部 詩's Space | https://www.kskb.eu.org/feeds/posts/default?alt=rss | https://www.kskb.eu.org |
 | Phoenix Rain | https://blog.lhp-pku.top/atom.xml | https://blog.lhp-pku.top/ |
+| 见字如面 | https://hiwannz.com/feed | https://hiwannz.com/ |
 
 ## OPML
 
