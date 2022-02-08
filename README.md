@@ -205,6 +205,7 @@ TUNA的同学们有权限可以直接编辑此文件；其它同学们烦请发 
 | Phoenix Rain | https://blog.lhp-pku.top/atom.xml | https://blog.lhp-pku.top/ |
 | 见字如面 | https://hiwannz.com/feed | https://hiwannz.com/ |
 | Zhangzqs's Blog | https://zhangzqs.cn/atom.xml | https://zhangzqs.cn/ |
+| Jimyag | https://jimyag.cn/sitemap.xml | https://jimyag.cn/ |
 
 ## OPML
 
