@@ -207,6 +207,7 @@ TUNA的同学们有权限可以直接编辑此文件；其它同学们烦请发 
 | Zhangzqs's Blog | https://zhangzqs.cn/atom.xml | https://zhangzqs.cn/ |
 | Sunnysab's Blog | https://sunnysab.cn/rss.xml | https://sunnysab.cn/ |
 | Jimyag | https://jimyag.cn/sitemap.xml | https://jimyag.cn/ |
+| Vica's Blog | https://blog.vicayang.cc/atom.xml | https://blog.vicayang.cc/ |
 
 ## OPML
 
