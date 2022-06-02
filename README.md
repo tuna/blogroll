@@ -209,6 +209,7 @@ TUNA的同学们有权限可以直接编辑此文件；其它同学们烦请发 
 | Jimyag | https://jimyag.cn/sitemap.xml | https://jimyag.cn/ |
 | Neo_Chen | https://neochen1024.blogspot.com/feeds/posts/default | https://neochen1024.blogspot.com/ |
 | 月见的瞎叨叨 | https://blog.yuejian.fun/rss.xml | https://blog.yuejian.fun/ |
+| Vica's Blog | https://blog.vicayang.cc/atom.xml | https://blog.vicayang.cc/ |
 
 ## OPML
 
