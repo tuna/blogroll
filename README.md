@@ -213,7 +213,7 @@ TUNA的同学们有权限可以直接编辑此文件；其它同学们烦请发 
 | DGideas' Blog | https://dgideas.net/feed/ | https://dgideas.net/ |
 | Lhxone的博客 | https://www.lhxone.com/index.php/feed/ | https://lhxone.com |
 | twd2  | https://twd2.me/feed | https://twd2.me/ |
-
+| Amicoyuan  | https://xingyuanjie.top/rss.xml | https://xingyuanjie.top |
 ## OPML
 
 <https://tuna.github.io/blogroll/opml.xml>
