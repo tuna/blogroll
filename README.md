@@ -215,6 +215,7 @@ TUNA的同学们有权限可以直接编辑此文件；其它同学们烦请发 
 ｜Ethan's Blog | https://ethan-phu.github.io/index.xml | https://ethan-phu.github.io |
 | twd2  | https://twd2.me/feed | https://twd2.me/ |
 | 齐下无贰 | https://weidows.github.io/atom.xml | https://weidows.github.io |
+| ECWU's Notebook  | https://ecwuuuuu.com/index.xml | https://ecwuuuuu.com |
 | Amicoyuan  | https://xingyuanjie.top/rss.xml | https://xingyuanjie.top |
 
 ## OPML
