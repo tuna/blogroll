@@ -206,7 +206,7 @@ TUNA的同学们有权限可以直接编辑此文件；其它同学们烦请发 
 | 见字如面 | https://hiwannz.com/feed | https://hiwannz.com/ |
 | Zhangzqs's Blog | https://zhangzqs.cn/atom.xml | https://zhangzqs.cn/ |
 | Sunnysab's Blog | https://sunnysab.cn/rss.xml | https://sunnysab.cn/ |
-| Jimyag | https://jimyag.cn/sitemap.xml | https://jimyag.cn/ |
+| Jimyag | https://jimyag.com/index.xml | https://jimyag.com/ |
 | Neo_Chen | https://neochen1024.blogspot.com/feeds/posts/default | https://neochen1024.blogspot.com/ |
 | 月见的瞎叨叨 | https://blog.yuejian.fun/rss.xml | https://blog.yuejian.fun/ |
 | Vica's Blog | https://blog.vicayang.cc/atom.xml | https://blog.vicayang.cc/ |
