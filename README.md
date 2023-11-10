@@ -218,6 +218,7 @@ TUNA的同学们有权限可以直接编辑此文件；其它同学们烦请发 
 | 齐下无贰 | https://weidows.github.io/atom.xml | https://weidows.github.io |
 | ECWU's Notebook  | https://ecwuuuuu.com/index.xml | https://ecwuuuuu.com |
 | Amicoyuan  | https://xingyuanjie.top/rss.xml | https://xingyuanjie.top |
+| LongLuo's Life Notes | http://www.longluo.me/atom.xml | http://www.longluo.me/ |
 
 ## OPML
 
