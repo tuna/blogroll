@@ -217,7 +217,9 @@ TUNA的同学们有权限可以直接编辑此文件；其它同学们烦请发 
 | 齐下无贰 | https://weidows.github.io/atom.xml | https://weidows.github.io |
 | ECWU's Notebook  | https://ecwuuuuu.com/index.xml | https://ecwuuuuu.com |
 | Amicoyuan  | https://xingyuanjie.top/rss.xml | https://xingyuanjie.top |
+| A小編也推薦 | https://alittleeditor.com/rss.xml | https://alittleeditor.com/ |
 | Starkakrats  | https://raw.githubusercontent.com/starkakrats/starkakrats-feed/main/index.xml | https://starkakrats.tiddlyhost.com |
+
 ## OPML
 
 <https://tuna.github.io/blogroll/opml.xml>
