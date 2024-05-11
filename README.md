@@ -63,7 +63,6 @@ TUNA的同学们有权限可以直接编辑此文件；其它同学们烦请发 
 |Kxn's eXercise Notes| http://blog.kangkang.org/index.php/feed | http://blog.kangkang.org/ |
 |laike9m's blog| https://laike9m.com/blog/rss/ | https://laike9m.com/blog/ |
 |Librehat's Blog| https://www.librehat.com/feed/ | https://www.librehat.com/ |
-|Lv. MAX| https://maxlv.net/rss/ | https://maxlv.net/ |
 |MaskRay| http://maskray.me/atom.xml | http://maskray.me/blog |
 |May the #! be with you| https://onebitbug.me/feed/atom.xml | https://onebitbug.me/ |
 |oldj's blog| http://oldj.net/feed/ | http://oldj.net/ |
@@ -219,6 +218,9 @@ TUNA的同学们有权限可以直接编辑此文件；其它同学们烦请发 
 | ECWU's Notebook  | https://ecwuuuuu.com/index.xml | https://ecwuuuuu.com |
 | Amicoyuan  | https://xingyuanjie.top/rss.xml | https://xingyuanjie.top |
 | 九仞之行 | https://styunlen.cn/feed | https://styunlen.cn/ |
+| A小編也推薦 | https://alittleeditor.com/rss.xml | https://alittleeditor.com/ |
+| Starkakrats  | https://raw.githubusercontent.com/starkakrats/starkakrats-feed/main/index.xml | https://starkakrats.tiddlyhost.com |
+
 
 ## OPML
 
