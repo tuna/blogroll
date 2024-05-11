@@ -63,7 +63,6 @@ TUNA的同学们有权限可以直接编辑此文件；其它同学们烦请发 
 |Kxn's eXercise Notes| http://blog.kangkang.org/index.php/feed | http://blog.kangkang.org/ |
 |laike9m's blog| https://laike9m.com/blog/rss/ | https://laike9m.com/blog/ |
 |Librehat's Blog| https://www.librehat.com/feed/ | https://www.librehat.com/ |
-|Lv. MAX| https://maxlv.net/rss/ | https://maxlv.net/ |
 |MaskRay| http://maskray.me/atom.xml | http://maskray.me/blog |
 |May the #! be with you| https://onebitbug.me/feed/atom.xml | https://onebitbug.me/ |
 |oldj's blog| http://oldj.net/feed/ | http://oldj.net/ |
