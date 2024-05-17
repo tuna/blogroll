@@ -82,6 +82,7 @@ TUNA 的同学们有权限可以直接编辑此文件；其它同学们烦请发
 |半瓶| http://www.orangeclk.com/atom.xml | http://www.orangeclk.com/ |
 |太阳日志| http://www.sunjw.us/blog/feed/ | http://www.sunjw.us/blog |
 |朝闻道| https://fbq.github.io/atom.xml | https://fbq.github.io/ |
+|有一说一(党凡)|| https://dangfan.me/zh-Hans/ |
 |李凡希的Blog| http://www.freemindworld.com/blog/feed | http://www.freemindworld.com/blog |
 |毕扬博客| http://laob.me/feed/ | http://laob.me/ |
 |水渍| http://multisim.me/atom.xml | http://multisim.me/ |
