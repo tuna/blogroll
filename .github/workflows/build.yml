@@ -21,13 +21,13 @@ jobs:
       env:
         OPML_TITLE: "TUNA Blogroll"
       run: |
-        .build/buildOpml.sh > opml.xml
-        .build/validator.py opml.xml || true
+        .build/buildOpml.sh > site/opml.xml
+        .build/validator.py site/opml.xml || true
     - name: Upload Pages Artifact
       if: ${{ github.ref == 'refs/heads/master' }}
       uses: actions/upload-pages-artifact@v3
       with:
-        path: opml.xml
+        path: site/
 
   deploy:
     if: ${{ github.ref == 'refs/heads/master' }}
