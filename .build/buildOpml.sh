@@ -28,7 +28,11 @@ echo "$content" | while read -r line || [[ -n "$line" ]]; do
   name=$(echo $line | cut -f2 -d\| | sed 's/[ \t]*$//;s/^[ \t]*//')
   xml=$(echo $line | cut -f3 -d\| | sed 's/[ \t]*$//;s/^[ \t]*//')
   html=$(echo $line | cut -f4 -d\| | sed 's/[ \t]*$//;s/^[ \t]*//')
-  echo "<outline title=\"$name\" xmlUrl=\"$xml\" htmlUrl=\"$html\"/>"
+  if [ ! -z "$xml" ]; then
+    echo "<outline title=\"$name\" xmlUrl=\"$xml\" htmlUrl=\"$html\"/>"
+  else
+    echo "<outline title=\"$name\" htmlUrl=\"$html\"/>"
+  fi
 done
 
 echo "
