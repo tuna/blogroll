@@ -196,7 +196,7 @@ TUNA 的同学们有权限可以直接编辑此文件；其它同学们烦请发
 | 九仞之行 | https://styunlen.cn/feed | https://styunlen.cn/ |
 | A小編也推薦 | https://alittleeditor.com/rss.xml | https://alittleeditor.com/ |
 | Starkakrats  | https://raw.githubusercontent.com/starkakrats/starkakrats-feed/main/index.xml | https://starkakrats.tiddlyhost.com |
-
+| Lazymio | https://blog.ihomura.cn/atom.xml | https://blog.ihomura.cn |
 
 ## OPML
 
