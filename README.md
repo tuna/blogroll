@@ -34,7 +34,7 @@ TUNA 的同学们有权限可以直接编辑此文件；其它同学们烦请发
 |Chon's Blog| https://ichon.me/feed/ | https://ichon.me |
 |CodingLabs| http://blog.codinglabs.org/rss.xml | http://blog.codinglabs.org/ |
 |CS Slayer| https://www.csslayer.info/wordpress/feed/ | https://www.csslayer.info/wordpress |
-|cuihao;blog| http://cuihao.is-programmer.com/feed | http://cuihao.is-programmer.com/ |
+|cuihao (cvhc)'s blog|  | https://blog.cvhc.cc/ |
 |DOVEcho Blog - D.B.| http://dovecho.github.io/feed.xml | http://dovecho.github.io/ |
 |Farseerfc的小窩| http://farseerfc.me/feeds/atom.xml | http://farseerfc.me/ |
 |Felix's Blog| http://feeds.feedburner.com/felixcat?format=xml | http://blog.felixc.at/ |
