@@ -180,6 +180,7 @@ TUNA 的同学们有权限可以直接编辑此文件；其它同学们烦请发
 | Lazymio | https://blog.ihomura.cn/atom.xml | https://blog.ihomura.cn |
 | kxxt | https://www.kxxt.dev/rss.xml | https://www.kxxt.dev/ |
 | Miskcoo's Space | https://blog.miskcoo.com/feed.xml | https://blog.miskcoo.com/ |
+| Raspberry's Blog |  | https://blog.raspberrykan.dev |
 
 ## OPML
 
