@@ -181,7 +181,7 @@ TUNA 的同学们有权限可以直接编辑此文件；其它同学们烦请发
 | kxxt | https://www.kxxt.dev/rss.xml | https://www.kxxt.dev/ |
 | Miskcoo's Space | https://blog.miskcoo.com/feed.xml | https://blog.miskcoo.com/ |
 | 宇宙尽头的餐馆 | https://www.flyalready.cn/atom.xml | https://www.flyalready.cn/ |
-
+| Clever_Jimmy's Blog | https://leverimmy.top/atom.xml | https://leverimmy.top/ |
 
 ## OPML
 
