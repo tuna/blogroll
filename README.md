@@ -185,6 +185,7 @@ TUNA 的同学们有权限可以直接编辑此文件；其它同学们烦请发
 | A1ca7raz's Blog | https://blog.wtm.moe/feed.xml | https://blog.wtm.moe/ |
 | Clever_Jimmy's Blog | https://leverimmy.top/atom.xml | https://leverimmy.top/ |
 | 满久琦的个人网站 | https://www.manjiuqi.com/feed/ | https://www.manjiuqi.com/ |
+| 南蛮子懋和 | https://www.dao.js.cn/feed.php | https://www.dao.js.cn/ |
 
 ## OPML
 
