@@ -186,6 +186,7 @@ TUNA 的同学们有权限可以直接编辑此文件；其它同学们烦请发
 | Clever_Jimmy's Blog | https://leverimmy.top/atom.xml | https://leverimmy.top/ |
 | 满久琦的个人网站 | https://www.manjiuqi.com/feed/ | https://www.manjiuqi.com/ |
 | Blog Sketch | https://blog.ziaowang.top/feed/ | https://blog.ziaowang.top/ |
+| 风语阁 | https://blog.wtm.moe/feed.xml | https://blog.wtm.moe/ |
 
 ## OPML
 
