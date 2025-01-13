@@ -145,7 +145,8 @@ TUNA 的同学们有权限可以直接编辑此文件；其它同学们烦请发
 | 251's Blog | https://blog.251.sh/feed/ | https://blog.251.sh |
 | Fidel's Lab | https://fidel.js.org/atom.xml | https://fidel.js.org/ |
 | MiaoTony's Blog | https://miaotony.xyz/atom.xml | https://miaotony.xyz/ |
-| fern's blog | https://blog.fernvenue.com/index.xml | https://blog.fernvenue.com/ |
+| fernvenue's Blog (en) | https://blog.fernvenue.com/index.xml | https://blog.fernvenue.com/ |
+| fernvenue's Blog (zh) | https://blog.fernvenue.com/zh/index.xml | https://blog.fernvenue.com/zh/ |
 | 周友松的博客  | http://www.zhouyousong.cn/?feed=rss2 | http://www.zhouyousong.cn |
 | Thinking Null | https://awsl.blog/feed/ | https://awsl.blog |
 | Hong Ren |  | https://blog.zenithal.me/ |
