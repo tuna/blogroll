@@ -26,6 +26,7 @@ TUNA 的同学们有权限可以直接编辑此文件；其它同学们烦请发
 | --   | --  | --   |
 | armsword的涅槃之地|  | http://armsword.com/ |
 | Bao Haojun - Happy Hacking| http://baohaojun.github.io/atom.xml | http://baohaojun.github.io/ |
+| Bdim's blog - 减三和弦的部落格| https://blog.bdim.moe/zh/index.xml | https://blog.bdim.moe/zh/ |
 | Beyond the Void| https://www.byvoid.com/feed | http://www.byvoid.com/ |
 | Binuxの杂货铺| http://blog.binux.me/atom.xml | http://blog.binux.me/ |
 | BlahGeek's Blog| https://blog.blahgeek.com/feeds/all.rss.xml | http://blog.blahgeek.com/ |
