@@ -16,7 +16,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install lxml beautifulsoup4
+        pip install lxml beautifulsoup4 html5lib
     - name: Build Opml
       env:
         OPML_TITLE: "TUNA Blogroll"

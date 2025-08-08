@@ -15,7 +15,7 @@ socket.setdefaulttimeout(5)
 
 with open(sys.argv[1], 'r') as opmlFile:
 
-    opml = opmlFile.read().decode('utf-8')
+    opml = opmlFile.read()
     opml = BeautifulSoup(opml, 'xml')
 
     entries = opml.find_all('outline')

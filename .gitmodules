@@ -1,4 +1,4 @@
 [submodule ".build/feedvalidator"]
 	path = .build/feedvalidator
-	url = https://github.com/rubys/feedvalidator
-	branch = master
+	url = https://github.com/w3c/feedvalidator
+	branch = main
