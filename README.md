@@ -133,7 +133,7 @@ TUNA 的同学们有权限可以直接编辑此文件；其它同学们烦请发
 | Mathor | https://wmathor.com/index.php/feed | https://wmathor.com |
 | Berrysoft的博客 | https://berrysoft.github.io/blogdata/feed.xml | https://berrysoft.github.io/blog/ |
 | Angel_Kitty's Blog | http://feed.cnblogs.com/blog/u/329976/rss/ | https://www.cnblogs.com/ECJTUACM-873284962/ |
-| C3Meow | https://backend.meow.c-3.moe/feed | https://meow.c-3.moe |
+| Layered | https://layered.meow.plus/feed.xml | https://layered.meow.plus |
 | Bboysoul's Blog | https://www.bboy.app/atom.xml | https://www.bboy.app/ |
 | Papersnake | https://blog.pka.moe/atom.xml | https://blog.pka.moe/ |
 | Lenciel | https://lenciel.com/feed.xml | https://lenciel.com |
