@@ -126,7 +126,7 @@ TUNA 的同学们有权限可以直接编辑此文件；其它同学们烦请发
 | Begin-End | https://liam.page/en/atom.xml | https://liam.page/en/ |
 | Harry Chen's Blog | https://harrychen.xyz/feed.xml | https://harrychen.xyz/ |
 | 业余无线电台BD4SUR | https://bd4sur.com/feed.xml | https://bd4sur.com/ |
-| Wars Feng Blog | https://blog.wars.cat/feed | https://blog.wars.cat |
+| Wars's Blog | https://wars.cat/feed/ | https://wars.cat |
 | 黎明灰烬 博客 | https://jackwish.net/feed.xml | https://jackwish.net |
 | Kira Blog | https://kira.cool/feed | https://kira.cool |
 | 米米的博客 | https://zhangshuqiao.org/atom.xml | https://zhangshuqiao.org/ |
