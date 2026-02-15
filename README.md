@@ -172,7 +172,7 @@ TUNA 的同学们有权限可以直接编辑此文件；其它同学们烦请发
 | Lhxone的博客 |  | https://lhxone.com/ |
 | Ethan's Blog | https://ethan-phu.github.io/index.xml | https://ethan-phu.github.io |
 | twd2  | https://twd2.me/feed | https://twd2.me/ |
-| 晴雀堂 | https://blog.verynb.me/atom.xml | https://blog.verynb.me/ |
+| 晴雀堂 | https://blog.verynb.net/atom.xml | https://blog.verynb.net/ |
 | 齐下无贰 | https://blog.270916.xyz/atom.xml | https://blog.270916.xyz/ |
 | ECWU's Notebook  | https://ecwuuuuu.com/index.xml | https://ecwuuuuu.com |
 | Amicoyuan  | https://xingyuanjie.top/rss.xml | https://xingyuanjie.top |
