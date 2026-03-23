@@ -191,6 +191,7 @@ TUNA 的同学们有权限可以直接编辑此文件；其它同学们烦请发
 | HaoBIT 博客 | https://blog.haobit.top/feed_rss_updated.xml | https://blog.haobit.top/ |
 | BH1PHL | https://qsl.net/bh1phl/zh/index.xml | https://qsl.net/bh1phl/zh/ |
 | BG1REN | https://qsl.net/bg1ren/index.xml | https://qsl.net/bg1ren/ |
+| Firenze42 |  | https://firenze42.com/zh |
 
 ## OPML
 
