@@ -192,6 +192,8 @@ TUNA 的同学们有权限可以直接编辑此文件；其它同学们烦请发
 | BH1PHL | https://qsl.net/bh1phl/zh/index.xml | https://qsl.net/bh1phl/zh/ |
 | BG1REN | https://qsl.net/bg1ren/index.xml | https://qsl.net/bg1ren/ |
 | Jake Blog | [https://qsl.net/bg1ren/index.xml](https://jaketao.com/feed) | [https://qsl.net/bg1ren/](https://jaketao.com/blog) |
+| Koutian Wu | https://ktwu01.github.io/feed.xml | https://ktwu01.github.io/ |
+
 ## OPML
 
 <https://tuna.github.io/blogroll/opml.xml>
