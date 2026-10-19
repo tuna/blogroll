@@ -186,7 +186,7 @@ TUNA 的同学们有权限可以直接编辑此文件；其它同学们烦请发
 | Raspberry's Blog | https://blog.raspberrykan.dev/index.xml| https://blog.raspberrykan.dev |
 | A1ca7raz's Blog | https://blog.wtm.moe/feed.xml | https://blog.wtm.moe/ |
 | Clever_Jimmy's Blog | https://leverimmy.top/atom.xml | https://leverimmy.top/ |
-| 满久琦的个人网站 | https://www.manjiuqi.com/feed/ | https://www.manjiuqi.com/ |
+| 小满的墨水瓶 | https://www.yhdzz.cn/atom.xml | https://www.yhdzz.cn/ |
 | Blog Sketch | https://blog.ziaowang.top/feed/ | https://blog.ziaowang.top/ |
 | HaoBIT 博客 | https://blog.haobit.top/feed_rss_updated.xml | https://blog.haobit.top/ |
 | BH1PHL | https://qsl.net/bh1phl/zh/index.xml | https://qsl.net/bh1phl/zh/ |
